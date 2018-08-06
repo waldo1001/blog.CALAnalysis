@@ -1,0 +1,3056 @@
+Number of times a publisher was raised: 
+0 : Codeunit<ApplicationManagement>.PROCEDURE<OnEditInExcel>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterAutoFormatTranslate>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterCaptionClassTranslate>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterCompanyClose>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterCompanyOpen>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterFindPrinter>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterGetApplicationVersion>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterGetDatabaseTableTriggerSetup>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterGetDefaultRoleCenter>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterGetGlobalTableTriggerMask>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterGetSystemIndicator>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeCodeFilter>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeDateFilter>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeDateText>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeDateTimeFilter>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeText>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeTextFilter>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeTimeFilter>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeTimeText>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnDatabaseDelete>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnDatabaseInsert>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnDatabaseModify>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnDatabaseRename>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnGlobalDelete>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnGlobalInsert>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnGlobalModify>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnGlobalRename>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnBeforeCompanyClose>
+1 : Codeunit<ApplicationManagement>.PROCEDURE<OnBeforeCompanyOpen>
+1 : Codeunit<Gen. Jnl.-Check Line>.PROCEDURE<OnAfterCheckGenJnlLine>
+1 : Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<OnAfterInitGLRegister>
+1 : Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<OnAfterInsertGlobalGLEntry>
+1 : Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<OnBeforeInsertGLEntryBuffer>
+1 : Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<OnBeforePostGenJnlLine>
+1 : Codeunit<Release Incoming Document>.PROCEDURE<OnAfterCreateDocFromIncomingDocFail>
+1 : Codeunit<Release Incoming Document>.PROCEDURE<OnAfterCreateDocFromIncomingDocSuccess>
+1 : Codeunit<Release Incoming Document>.PROCEDURE<OnAfterReleaseIncomingDoc>
+1 : Codeunit<Send Incoming Document to OCR>.PROCEDURE<OnAfterIncomingDocReadyForOCR>
+2 : Codeunit<Send Incoming Document to OCR>.PROCEDURE<OnAfterIncomingDocReceivedFromOCR>
+1 : Codeunit<Send Incoming Document to OCR>.PROCEDURE<OnAfterIncomingDocSentToOCR>
+1 : Codeunit<Doc. Exch. Service Mgt.>.PROCEDURE<OnAfterIncomingDocReceivedFromDocExch>
+1 : Codeunit<Read Data Exch. from Stream>.PROCEDURE<OnGetDataExchFileContentEvent>
+1 : Codeunit<Workflow Setup>.PROCEDURE<OnAddWorkflowCategoriesToLibrary>
+1 : Codeunit<Workflow Event Handling>.PROCEDURE<OnAddWorkflowEventPredecessorsToLibrary>
+1 : Codeunit<Workflow Event Handling>.PROCEDURE<OnAddWorkflowEventsToLibrary>
+1 : Codeunit<Workflow Event Handling>.PROCEDURE<OnAddWorkflowTableRelationsToLibrary>
+1 : Codeunit<Workflow Response Handling>.PROCEDURE<OnAddWorkflowResponsePredecessorsToLibrary>
+1 : Codeunit<Workflow Response Handling>.PROCEDURE<OnAddWorkflowResponsesToLibrary>
+1 : Codeunit<Workflow Response Handling>.PROCEDURE<OnExecuteWorkflowResponse>
+2 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnApproveApprovalRequest>
+3 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelCustomerApprovalRequest>
+2 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelGeneralJournalBatchApprovalRequest>
+2 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelGeneralJournalLineApprovalRequest>
+2 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelIncomingDocApprovalRequest>
+3 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelItemApprovalRequest>
+12 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelPurchaseApprovalRequest>
+12 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelSalesApprovalRequest>
+3 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelVendorApprovalRequest>
+1 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnDelegateApprovalRequest>
+1 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnRejectApprovalRequest>
+2 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendCustomerForApproval>
+1 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendGeneralJournalBatchForApproval>
+1 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendGeneralJournalLineForApproval>
+3 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendIncomingDocForApproval>
+2 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendItemForApproval>
+12 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendPurchaseDocForApproval>
+12 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendSalesDocForApproval>
+2 : Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendVendorForApproval>
+1 : Codeunit<Office Host Management>.PROCEDURE<OnCloseCurrentPage>
+1 : Codeunit<Office Host Management>.PROCEDURE<OnEmailHasAttachments>
+1 : Codeunit<Office Host Management>.PROCEDURE<OnGetEmailAndAttachments>
+1 : Codeunit<Office Host Management>.PROCEDURE<OnGetHostType>
+1 : Codeunit<Office Host Management>.PROCEDURE<OnGetTempOfficeAddinContext>
+1 : Codeunit<Office Host Management>.PROCEDURE<OnInitializeContext>
+1 : Codeunit<Office Host Management>.PROCEDURE<OnInitializeExchangeObject>
+1 : Codeunit<Office Host Management>.PROCEDURE<OnInitializeHost>
+1 : Codeunit<Office Host Management>.PROCEDURE<OnInvokeExtension>
+1 : Codeunit<Office Host Management>.PROCEDURE<OnIsAvailable>
+1 : Codeunit<Office Host Management>.PROCEDURE<OnIsHostInitialized>
+1 : Codeunit<Office Host Management>.PROCEDURE<OnSendToOCR>
+1 : Codeunit<Payroll Management>.PROCEDURE<OnImportPayroll>
+3 : Codeunit<Payroll Management>.PROCEDURE<OnRegisterPayrollService>
+1 : Codeunit<Encrypted Key/Value Management>.PROCEDURE<OnCleanUpEvent>
+1 : Codeunit<Excel Data Migrator>.PROCEDURE<OnDownloadTemplate>
+1 : Codeunit<Excel Data Migrator>.PROCEDURE<OnUploadFile>
+1 : Codeunit<Gen. Jnl.-Post Preview>.PROCEDURE<OnRunPreview>
+1 : Codeunit<Company-Initialize>.PROCEDURE<OnCompanyInitialize>
+1 : Codeunit<Item Jnl.-Check Line>.PROCEDURE<OnAfterCheckItemJnlLine>
+1 : Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnAfterInitItemLedgEntry>
+1 : Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnAfterInsertCorrItemLedgEntry>
+1 : Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnAfterInsertCorrValueEntry>
+1 : Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnAfterInsertItemLedgEntry>
+1 : Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnAfterInsertValueEntry>
+1 : Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnAfterPostItemJnlLine>
+1 : Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnBeforeInsertCorrItemLedgEntry>
+1 : Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnBeforeInsertCorrValueEntry>
+1 : Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnBeforeInsertTransferEntry>
+1 : Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnBeforeInsertValueEntry>
+1 : Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnBeforePostItemJnlLine>
+1 : Codeunit<ClientTypeManagement>.PROCEDURE<OnAfterGetCurrentClientType>
+1 : Codeunit<LogInManagement>.PROCEDURE<OnAfterLogInStart>
+1 : Codeunit<DimensionManagement>.PROCEDURE<OnAfterSetupObjectNoList>
+1 : Codeunit<Release Sales Document>.PROCEDURE<OnAfterReleaseATOs>
+1 : Codeunit<Release Sales Document>.PROCEDURE<OnAfterReleaseSalesDoc>
+1 : Codeunit<Release Sales Document>.PROCEDURE<OnAfterReopenSalesDoc>
+1 : Codeunit<Release Sales Document>.PROCEDURE<OnBeforeReleaseSalesDoc>
+1 : Codeunit<Release Sales Document>.PROCEDURE<OnBeforeReopenSalesDoc>
+1 : Codeunit<Release Purchase Document>.PROCEDURE<OnAfterReleasePurchaseDoc>
+1 : Codeunit<Release Purchase Document>.PROCEDURE<OnAfterReopenPurchaseDoc>
+1 : Codeunit<Release Purchase Document>.PROCEDURE<OnBeforeReleasePurchaseDoc>
+1 : Codeunit<Release Purchase Document>.PROCEDURE<OnBeforeReopenPurchaseDoc>
+1 : Codeunit<User Management>.PROCEDURE<OnAfterRenameRecord>
+1 : Codeunit<Job Queue - Enqueue>.PROCEDURE<OnBeforeJobQueueScheduleTask>
+1 : Codeunit<Integration Record Synch.>.PROCEDURE<OnTransferFieldData>
+2 : Codeunit<CRM Integration Table Synch.>.PROCEDURE<OnQueryPostFilterIgnoreRecord>
+1 : Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnAfterApplyRecordTemplate>
+1 : Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnAfterInsertRecord>
+1 : Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnAfterModifyRecord>
+1 : Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnAfterTransferRecordFields>
+1 : Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnBeforeApplyRecordTemplate>
+1 : Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnBeforeInsertRecord>
+1 : Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnBeforeModifyRecord>
+1 : Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnBeforeTransferRecordFields>
+1 : Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnFindUncoupledDestinationRecord>
+1 : Codeunit<Sales-Calc. Discount>.PROCEDURE<OnAfterCalcSalesDiscount>
+1 : Codeunit<Sales-Calc. Discount>.PROCEDURE<OnBeforeCalcSalesDiscount>
+1 : Codeunit<Azure AD Auth Flow>.PROCEDURE<OnAcquireTokenByAuthorizationCode>
+1 : Codeunit<Azure AD Auth Flow>.PROCEDURE<OnAcquireTokenByAuthorizationCodeWithCredentials>
+1 : Codeunit<Azure AD Auth Flow>.PROCEDURE<OnAcquireTokenFromCache>
+1 : Codeunit<Azure AD Auth Flow>.PROCEDURE<OnAcquireTokenFromCacheWithCredentials>
+1 : Codeunit<Azure AD Auth Flow>.PROCEDURE<OnCheckProvider>
+1 : Codeunit<Azure AD Auth Flow>.PROCEDURE<OnCreateExchangeServiceWrapperWithToken>
+1 : Codeunit<Azure AD Auth Flow>.PROCEDURE<OnGetSaasClientId>
+1 : Codeunit<Azure AD Auth Flow>.PROCEDURE<OnInitialize>
+1 : Codeunit<Copy Document Mgt.>.PROCEDURE<OnAfterCopyPurchaseDocument>
+1 : Codeunit<Copy Document Mgt.>.PROCEDURE<OnAfterCopySalesDocument>
+1 : Codeunit<Copy Document Mgt.>.PROCEDURE<OnBeforeCopyPurchaseDocument>
+1 : Codeunit<Copy Document Mgt.>.PROCEDURE<OnBeforeCopySalesDocument>
+1 : Codeunit<Booking Manager>.PROCEDURE<OnGetBookingItems>
+1 : Codeunit<Booking Manager>.PROCEDURE<OnGetBookingMailboxes>
+1 : Codeunit<Booking Manager>.PROCEDURE<OnGetBookingServiceForBooking>
+1 : Codeunit<Booking Manager>.PROCEDURE<OnSetBookingItemInvoiced>
+1 : Codeunit<Booking Manager>.PROCEDURE<OnSynchronize>
+1 : Codeunit<Purch.-Calc.Discount>.PROCEDURE<OnAfterCalcPurchaseDiscount>
+1 : Codeunit<Purch.-Calc.Discount>.PROCEDURE<OnBeforeCalcPurchaseDiscount>
+1 : Codeunit<Sales-Post>.PROCEDURE<OnAfterPostSalesDoc>
+1 : Codeunit<Sales-Post>.PROCEDURE<OnBeforePostCommitSalesDoc>
+1 : Codeunit<Sales-Post>.PROCEDURE<OnBeforePostSalesDoc>
+1 : Codeunit<Sales-Post>.PROCEDURE<OnSendSalesDocument>
+2 : Codeunit<Purch.-Post>.PROCEDURE<OnAfterPostPurchaseDoc>
+1 : Codeunit<Purch.-Post>.PROCEDURE<OnBeforePostCommitPurchaseDoc>
+1 : Codeunit<Purch.-Post>.PROCEDURE<OnBeforePostPurchaseDoc>
+1 : Codeunit<Azure AD User Management>.PROCEDURE<OnInitialize>
+2 : Page<My Notifications>.PROCEDURE<OnInitializingNotificationWithDefaultState>
+1 : Page<Payroll Import Transactions>.PROCEDURE<OnCreateSampleFile>
+1 : Page<Payroll Import Transactions>.PROCEDURE<OnImportPayrollTransactions>
+1 : Page<Incoming Document>.PROCEDURE<OnCloseIncomingDocumentFromAction>
+1 : Page<Incoming Documents>.PROCEDURE<OnCloseIncomingDocumentsFromActions>
+1 : Page<Navigate>.PROCEDURE<OnAfterNavigateFindRecords>
+1 : Page<Navigate>.PROCEDURE<OnAfterNavigateShowRecords>
+1 : Page<Sales Quote>.PROCEDURE<OnBeforeStatisticsAction>
+1 : Page<Sales Order>.PROCEDURE<OnBeforeStatisticsAction>
+1 : Page<Sales Invoice>.PROCEDURE<OnBeforeStatisticsAction>
+1 : Page<Sales Credit Memo>.PROCEDURE<OnBeforeStatisticsAction>
+1 : Page<Blanket Sales Order>.PROCEDURE<OnBeforeStatisticsAction>
+1 : Page<Sales Return Order>.PROCEDURE<OnBeforeStatisticsAction>
+1 : Page<My Settings>.PROCEDURE<OnCompanyChange>
+1 : Report<Send Overdue Appr. Notif.>.PROCEDURE<OnSendOverdueNotifications>
+2 : Table<Payment Service Setup>.PROCEDURE<OnCreatePaymentService>
+5 : Table<Payment Service Setup>.PROCEDURE<OnRegisterPaymentServiceProviders>
+7 : Table<Payment Service Setup>.PROCEDURE<OnRegisterPaymentServices>
+2 : Table<Transformation Rule>.PROCEDURE<OnCreateTransformationRules>
+1 : Table<Transformation Rule>.PROCEDURE<OnTransformation>
+2 : Table<Incoming Document>.PROCEDURE<OnAfterCreateGenJnlLineFromIncomingDocFail>
+2 : Table<Incoming Document>.PROCEDURE<OnAfterCreateGenJnlLineFromIncomingDocSuccess>
+1 : Table<Incoming Document>.PROCEDURE<OnCheckIncomingDocCreateDocRestrictions>
+1 : Table<Incoming Document>.PROCEDURE<OnCheckIncomingDocReleaseRestrictions>
+1 : Table<Incoming Document>.PROCEDURE<OnCheckIncomingDocSetForOCRRestrictions>
+1 : Table<Incoming Document Attachment>.PROCEDURE<OnAttachBinaryFile>
+3 : Table<Incoming Document Attachment>.PROCEDURE<OnGetBinaryContent>
+3 : Table<Service Connection>.PROCEDURE<OnRegisterServiceConnection>
+1 : Table<My Notifications>.PROCEDURE<OnStateChanged>
+1 : Table<G/L Entry>.PROCEDURE<OnAfterCopyGLEntryFromGenJnlLine>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnApplySelectedData>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnCustomerVendorPostingSetup>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnDataImport>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnDownloadTemplate>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnGetInstructions>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnGLPostingSetup>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnHasAdvancedApply>
+2 : Table<Data Migrator Registration>.PROCEDURE<OnHasErrors>
+2 : Table<Data Migrator Registration>.PROCEDURE<OnHasSettings>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnHasTemplate>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnOpenAdvancedApply>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnOpenSettings>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnPostingGroupSetup>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnRegisterDataMigrator>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnSelectDataToApply>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnShowErrors>
+1 : Table<Data Migrator Registration>.PROCEDURE<OnValidateSettings>
+1 : Table<Assisted Company Setup Status>.PROCEDURE<OnEnabled>
+1 : Table<Assisted Setup>.PROCEDURE<OnAssistedSetupCompleted>
+1 : Table<Cust. Ledger Entry>.PROCEDURE<OnAfterCopyCustLedgerEntryFromGenJnlLine>
+2 : Table<Gen. Journal Batch>.PROCEDURE<OnCheckGenJournalLineExportRestrictions>
+1 : Table<Gen. Journal Batch>.PROCEDURE<OnGeneralJournalBatchBalanced>
+1 : Table<Gen. Journal Batch>.PROCEDURE<OnGeneralJournalBatchNotBalanced>
+1 : Table<Gen. Journal Batch>.PROCEDURE<OnMoveGenJournalBatch>
+1 : Table<Vendor Ledger Entry>.PROCEDURE<OnAfterCopyVendLedgerEntryFromGenJnlLine>
+1 : Table<Bank Account>.PROCEDURE<OnCheckAutoLogonPossibleEvent>
+1 : Table<Bank Account>.PROCEDURE<OnCheckLinkedToStatementProviderEvent>
+1 : Table<Bank Account>.PROCEDURE<OnGetDataExchangeDefinitionEvent>
+2 : Table<Bank Account>.PROCEDURE<OnGetStatementProvidersEvent>
+1 : Table<Bank Account>.PROCEDURE<OnLinkStatementProviderEvent>
+1 : Table<Bank Account>.PROCEDURE<OnMarkAccountLinkedEvent>
+1 : Table<Bank Account>.PROCEDURE<OnSimpleLinkStatementProviderEvent>
+2 : Table<Bank Account>.PROCEDURE<OnUnlinkStatementProviderEvent>
+1 : Table<Bank Account>.PROCEDURE<OnUpdateBankAccountLinkingEvent>
+3 : Table<Sales Header>.PROCEDURE<OnCheckSalesPostRestrictions>
+1 : Table<Sales Header>.PROCEDURE<OnCheckSalesReleaseRestrictions>
+3 : Table<Sales Header>.PROCEDURE<OnCustomerCreditLimitExceeded>
+3 : Table<Sales Header>.PROCEDURE<OnCustomerCreditLimitNotExceeded>
+3 : Table<Purchase Header>.PROCEDURE<OnCheckPurchasePostRestrictions>
+1 : Table<Purchase Header>.PROCEDURE<OnCheckPurchaseReleaseRestrictions>
+1 : Table<Gen. Journal Line>.PROCEDURE<OnCheckGenJournalLinePostRestrictions>
+1 : Table<Gen. Journal Line>.PROCEDURE<OnCheckGenJournalLinePrintCheckRestrictions>
+6 : Table<Gen. Journal Line>.PROCEDURE<OnMoveGenJournalLine>
+
+
+DETAILS:
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterAutoFormatTranslate>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<AutoFormatTranslate>
+    Code lines:
+    AutoFormatTranslation := AutoFormatManagement.AutoFormatTranslate(AutoFormatType,AutoFormatExpr);
+    OnAfterAutoFormatTranslate(AutoFormatType,AutoFormatExpr,AutoFormatTranslation); <=====================
+    EXIT(AutoFormatTranslation);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterCaptionClassTranslate>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<CaptionClassTranslate>
+    Code lines:
+    Caption := CaptionManagement.CaptionClassTranslate(Language,CaptionExpr);
+    OnAfterCaptionClassTranslate(Language,CaptionExpr,Caption); <=====================
+    EXIT(Caption);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterCompanyClose>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<CompanyClose>
+    Code lines:
+    OnBeforeCompanyClose;
+    LogInManagement.CompanyClose;
+    OnAfterCompanyClose; <=====================
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterCompanyOpen>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<CompanyOpen>
+    Code lines:
+    // This needs to be the very first thing to run before company open
+    CODEUNIT.RUN(CODEUNIT::"Azure AD User Management");
+    OnBeforeCompanyOpen;
+    LogInManagement.CompanyOpen;
+    OnAfterCompanyOpen; <=====================
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterFindPrinter>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<FindPrinter>
+    Code lines:
+    ...
+    IF NOT PrinterSelection.GET(USERID,ReportID) THEN
+      IF NOT PrinterSelection.GET('',ReportID) THEN
+        IF NOT PrinterSelection.GET(USERID,0) THEN
+          IF PrinterSelection.GET('',0) THEN;
+    PrinterName := PrinterSelection."Printer Name";
+    OnAfterFindPrinter(ReportID,PrinterName); <=====================
+    EXIT(PrinterName);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterGetApplicationVersion>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<ApplicationVersion>
+    Code lines:
+    AppVersion := CustomApplicationVersion('BE Dynamics NAV 10.0');
+    OnAfterGetApplicationVersion(AppVersion); <=====================
+    EXIT(AppVersion);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterGetDatabaseTableTriggerSetup>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<GetDatabaseTableTriggerSetup>
+    Code lines:
+    ChangeLogMgt.GetDatabaseTableTriggerSetup(TableId,OnDatabaseInsert,OnDatabaseModify,OnDatabaseDelete,OnDatabaseRename);
+    IntegrationManagement.GetDatabaseTableTriggerSetup(TableId,OnDatabaseInsert,OnDatabaseModify,OnDatabaseDelete,OnDatabaseRename);
+    OnAfterGetDatabaseTableTriggerSetup(TableId,OnDatabaseInsert,OnDatabaseModify,OnDatabaseDelete,OnDatabaseRename); <=====================
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterGetDefaultRoleCenter>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<DefaultRoleCenter>
+    Code lines:
+    DefaultRoleCenterID := ConfPersMgt.DefaultRoleCenterID;
+    OnAfterGetDefaultRoleCenter(DefaultRoleCenterID); <=====================
+    EXIT(DefaultRoleCenterID);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterGetGlobalTableTriggerMask>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<GetGlobalTableTriggerMask>
+    Code lines:
+    // Replaced by GetDatabaseTableTriggerSetup
+    OnAfterGetGlobalTableTriggerMask(TableID,TableTriggerMask); <=====================
+    EXIT(TableTriggerMask);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterGetSystemIndicator>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<GetSystemIndicator>
+    Code lines:
+    IF CompanyInformation.GET THEN
+      CompanyInformation.GetSystemIndicator(Text,Style);
+    OnAfterGetSystemIndicator(Text,Style); <=====================
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeCodeFilter>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<MakeCodeFilter>
+    Code lines:
+    Position := TextManagement.MakeTextFilter(TextFilterText);
+    OnAfterMakeCodeFilter(Position,TextFilterText); <=====================
+    EXIT(Position);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeDateFilter>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<MakeDateFilter>
+    Code lines:
+    Position := TextManagement.MakeDateFilter(DateFilterText);
+    OnAfterMakeDateFilter(Position,DateFilterText); <=====================
+    EXIT(Position);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeDateText>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<MakeDateText>
+    Code lines:
+    Position := TextManagement.MakeDateText(DateText);
+    OnAfterMakeDateText(Position,DateText); <=====================
+    EXIT(Position);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeDateTimeFilter>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<MakeDateTimeFilter>
+    Code lines:
+    Position := TextManagement.MakeDateTimeFilter(DateTimeFilterText);
+    OnAfterMakeDateTimeFilter(Position,DateTimeFilterText); <=====================
+    EXIT(Position);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeText>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<MakeText>
+    Code lines:
+    Position := TextManagement.MakeText(Text);
+    OnAfterMakeText(Position,Text); <=====================
+    EXIT(Position);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeTextFilter>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<MakeTextFilter>
+    Code lines:
+    Position := TextManagement.MakeTextFilter(TextFilterText);
+    OnAfterMakeTextFilter(Position,TextFilterText); <=====================
+    EXIT(Position);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeTimeFilter>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<MakeTimeFilter>
+    Code lines:
+    Position := TextManagement.MakeTimeFilter(TimeFilterText);
+    OnAfterMakeTimeFilter(Position,TimeFilterText); <=====================
+    EXIT(Position);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterMakeTimeText>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<MakeTimeText>
+    Code lines:
+    Position := TextManagement.MakeTimeText(TimeText);
+    OnAfterMakeTimeText(Position,TimeText); <=====================
+    EXIT(Position);
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnDatabaseDelete>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<OnDatabaseDelete>
+    Code lines:
+    ChangeLogMgt.LogDeletion(RecRef);
+    IntegrationManagement.OnDatabaseDelete(RecRef);
+    OnAfterOnDatabaseDelete(RecRef); <=====================
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnDatabaseInsert>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<OnDatabaseInsert>
+    Code lines:
+    ChangeLogMgt.LogInsertion(RecRef);
+    IntegrationManagement.OnDatabaseInsert(RecRef);
+    OnAfterOnDatabaseInsert(RecRef); <=====================
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnDatabaseModify>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<OnDatabaseModify>
+    Code lines:
+    ChangeLogMgt.LogModification(RecRef);
+    IntegrationManagement.OnDatabaseModify(RecRef);
+    OnAfterOnDatabaseModify(RecRef); <=====================
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnDatabaseRename>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<OnDatabaseRename>
+    Code lines:
+    ChangeLogMgt.LogRename(RecRef,xRecRef);
+    IntegrationManagement.OnDatabaseRename(RecRef,xRecRef);
+    OnAfterOnDatabaseRename(RecRef,xRecRef); <=====================
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnGlobalDelete>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<OnGlobalDelete>
+    Code lines:
+    // Replaced by OnDataBaseDelete. This trigger is only called from pages.
+    OnAfterOnGlobalDelete(RecRef); <=====================
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnGlobalInsert>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<OnGlobalInsert>
+    Code lines:
+    // Replaced by OnDataBaseInsert. This trigger is only called from pages.
+    OnAfterOnGlobalInsert(RecRef); <=====================
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnGlobalModify>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<OnGlobalModify>
+    Code lines:
+    // Replaced by OnDataBaseModify. This trigger is only called from pages.
+    OnAfterOnGlobalModify(RecRef,xRecRef); <=====================
+Codeunit<ApplicationManagement>.PROCEDURE<OnAfterOnGlobalRename>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<OnGlobalRename>
+    Code lines:
+    // Replaced by OnDataBaseRename. This trigger is only called from pages.
+    OnAfterOnGlobalRename(RecRef,xRecRef); <=====================
+Codeunit<ApplicationManagement>.PROCEDURE<OnBeforeCompanyClose>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<CompanyClose>
+    Code lines:
+    OnBeforeCompanyClose; <=====================
+    LogInManagement.CompanyClose;
+    OnAfterCompanyClose;
+Codeunit<ApplicationManagement>.PROCEDURE<OnBeforeCompanyOpen>
+  Raised in: Codeunit<ApplicationManagement>.PROCEDURE<CompanyOpen>
+    Code lines:
+    // This needs to be the very first thing to run before company open
+    CODEUNIT.RUN(CODEUNIT::"Azure AD User Management");
+    OnBeforeCompanyOpen; <=====================
+    LogInManagement.CompanyOpen;
+    OnAfterCompanyOpen;
+Codeunit<ApplicationManagement>.PROCEDURE<OnEditInExcel>
+Codeunit<Gen. Jnl.-Check Line>.PROCEDURE<OnAfterCheckGenJnlLine>
+  Raised in: Codeunit<Gen. Jnl.-Check Line>.PROCEDURE<RunCheck>
+    Code lines:
+    ...
+    END;
+    
+    IF CostAccSetup.GET THEN
+      CostAccMgt.CheckValidCCAndCOInGLEntry(GenJnlLine."Dimension Set ID");
+    
+    OnAfterCheckGenJnlLine(GenJnlLine); <=====================
+Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<OnAfterInitGLRegister>
+  Raised in: Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<StartPosting>
+    Code lines:
+    ...
+      GLReg."Journal Batch Name" := "Journal Batch Name";
+      GLReg."User ID" := USERID;
+      GLReg."Journal Template Name" := GenJnlTemplate.Name;
+      IsGLRegInserted := FALSE;
+    
+      OnAfterInitGLRegister(GLReg,GenJnlLine); <=====================
+    
+      GetCurrencyExchRate(GenJnlLine);
+      TempGLEntryBuf.DELETEALL;
+      CalculateCurrentBalance(
+    ...
+Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<OnAfterInsertGlobalGLEntry>
+  Raised in: Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<FinishPosting>
+    Code lines:
+    ...
+          GlobalGLEntry."Add.-Currency Debit Amount" := 0;
+          GlobalGLEntry."Add.-Currency Credit Amount" := 0;
+        END;
+        GlobalGLEntry."Prior-Year Entry" := GlobalGLEntry."Posting Date" < FiscalYearStartDate;
+        GlobalGLEntry.INSERT(TRUE);
+        OnAfterInsertGlobalGLEntry(GlobalGLEntry); <=====================
+      UNTIL TempGLEntryBuf.NEXT = 0;
+    
+      GLReg."To VAT Entry No." := NextVATEntryNo - 1;
+      GLReg."To Entry No." := GlobalGLEntry."Entry No.";
+    ...
+Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<OnBeforeInsertGLEntryBuffer>
+  Raised in: Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<InsertGLEntry>
+    Code lines:
+    ...
+      UpdateDebitCredit(GenJnlLine.Correction);
+    END;
+    
+    TempGLEntryBuf := GLEntry;
+    
+    OnBeforeInsertGLEntryBuffer(TempGLEntryBuf,GenJnlLine); <=====================
+    
+    TempGLEntryBuf.INSERT;
+    
+    IF FirstEntryNo = 0 THEN
+    ...
+Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<OnBeforePostGenJnlLine>
+  Raised in: Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<StartPosting>
+    Code lines:
+    OnBeforePostGenJnlLine(GenJnlLine); <=====================
+    
+    WITH GenJnlLine DO BEGIN
+      GlobalGLEntry.LOCKTABLE;
+      IF GlobalGLEntry.FINDLAST THEN BEGIN
+        NextEntryNo := GlobalGLEntry."Entry No." + 1;
+        NextTransactionNo := GlobalGLEntry."Transaction No." + 1;
+      END ELSE BEGIN
+        NextEntryNo := 1;
+        NextTransactionNo := 1;
+    ...
+Codeunit<Release Incoming Document>.PROCEDURE<OnAfterCreateDocFromIncomingDocFail>
+  Raised in: Codeunit<Release Incoming Document>.PROCEDURE<Fail>
+    Code lines:
+    ...
+      Status := Status::Failed;
+    
+      MODIFY(TRUE);
+      COMMIT;
+    
+      OnAfterCreateDocFromIncomingDocFail(IncomingDocument); <=====================
+    END;
+Codeunit<Release Incoming Document>.PROCEDURE<OnAfterCreateDocFromIncomingDocSuccess>
+  Raised in: Codeunit<Release Incoming Document>.PROCEDURE<Create>
+    Code lines:
+    ...
+    
+      Status := Status::Created;
+    
+      MODIFY(TRUE);
+      COMMIT;
+      OnAfterCreateDocFromIncomingDocSuccess(IncomingDocument); <=====================
+    END;
+Codeunit<Release Incoming Document>.PROCEDURE<OnAfterReleaseIncomingDoc>
+  Raised in: Codeunit<Release Incoming Document>.<OnRun>
+    Code lines:
+    ...
+    "Released Date-Time" := CURRENTDATETIME;
+    "Released By User ID" := USERSECURITYID;
+    
+    MODIFY(TRUE);
+    
+    OnAfterReleaseIncomingDoc(Rec); <=====================
+Codeunit<Send Incoming Document to OCR>.PROCEDURE<OnAfterIncomingDocReadyForOCR>
+  Raised in: Codeunit<Send Incoming Document to OCR>.PROCEDURE<SendToJobQueue>
+    Code lines:
+    ...
+    IncomingDocument."OCR Status" := IncomingDocument."OCR Status"::Ready;
+    IncomingDocument.MODIFY;
+    
+    CODEUNIT.RUN(CODEUNIT::"Release Incoming Document",IncomingDocument);
+    ShowMessage(DocumentHasBeenScheduledTxt);
+    OnAfterIncomingDocReadyForOCR(IncomingDocument); <=====================
+Codeunit<Send Incoming Document to OCR>.PROCEDURE<OnAfterIncomingDocReceivedFromOCR>
+  Raised in: Codeunit<Send Incoming Document to OCR>.PROCEDURE<SetStatusToReceived>
+    Code lines:
+    ...
+      "OCR Status" := "OCR Status"::Success;
+      "OCR Process Finished" := TRUE;
+      MODIFY;
+      COMMIT;
+    
+      OnAfterIncomingDocReceivedFromOCR(IncomingDocument); <=====================
+    END;
+  Raised in: Codeunit<Send Incoming Document to OCR>.PROCEDURE<SetStatusToFailed>
+    Code lines:
+    ...
+      "OCR Status" := "OCR Status"::Error;
+      "OCR Process Finished" := TRUE;
+      MODIFY;
+      COMMIT;
+    
+      OnAfterIncomingDocReceivedFromOCR(IncomingDocument); <=====================
+    END;
+Codeunit<Send Incoming Document to OCR>.PROCEDURE<OnAfterIncomingDocSentToOCR>
+  Raised in: Codeunit<Send Incoming Document to OCR>.PROCEDURE<SendDocToOCR>
+    Code lines:
+    ...
+      IncomingDocumentAttachment.SendToOCR;
+      IncomingDocument."OCR Status" := IncomingDocument."OCR Status"::Sent;
+      IncomingDocument.MODIFY;
+    END;
+    COMMIT;
+    OnAfterIncomingDocSentToOCR(IncomingDocument); <=====================
+Codeunit<Doc. Exch. Service Mgt.>.PROCEDURE<OnAfterIncomingDocReceivedFromDocExch>
+  Raised in: Codeunit<Doc. Exch. Service Mgt.>.PROCEDURE<ProcessReceivedDocs>
+    Code lines:
+    ...
+      END ELSE
+        LogActivitySucceeded(ContextRecordID,MarkBusinessProcessedTxt,STRSUBSTNO(DocIdImportedTxt,DocIdentifier));
+      COMMIT;
+    
+      IncomingDocument.FIND;
+      OnAfterIncomingDocReceivedFromDocExch(IncomingDocument); <=====================
+    END;
+Codeunit<Read Data Exch. from Stream>.PROCEDURE<OnGetDataExchFileContentEvent>
+  Raised in: Codeunit<Read Data Exch. from Stream>.<OnRun>
+    Code lines:
+    // Fire the get stream event
+    OnGetDataExchFileContentEvent(Rec,TempBlob,EventHandled); <=====================
+    
+    IF EventHandled THEN BEGIN
+      "File Name" := 'Data Stream';
+      "File Content" := TempBlob.Blob;
+    END;
+Codeunit<Workflow Setup>.PROCEDURE<OnAddWorkflowCategoriesToLibrary>
+  Raised in: Codeunit<Workflow Setup>.PROCEDURE<InsertWorkflowCategories>
+    Code lines:
+    ...
+    InsertWorkflowCategory(PurchDocCategoryTxt,PurchDocCategoryDescTxt);
+    InsertWorkflowCategory(SalesDocCategoryTxt,SalesDocCategoryDescTxt);
+    InsertWorkflowCategory(AdminCategoryTxt,AdminCategoryDescTxt);
+    InsertWorkflowCategory(FinCategoryTxt,FinCategoryDescTxt);
+    
+    OnAddWorkflowCategoriesToLibrary; <=====================
+Codeunit<Workflow Event Handling>.PROCEDURE<OnAddWorkflowEventPredecessorsToLibrary>
+  Raised in: Codeunit<Workflow Event Handling>.PROCEDURE<AddEventPredecessors>
+    Code lines:
+    ...
+        AddEventPredecessor(RunWorkflowOnGeneralJournalBatchBalancedCode,RunWorkflowOnSendGeneralJournalBatchForApprovalCode);
+      RunWorkflowOnGeneralJournalBatchNotBalancedCode:
+        AddEventPredecessor(RunWorkflowOnGeneralJournalBatchNotBalancedCode,RunWorkflowOnSendGeneralJournalBatchForApprovalCode);
+    END;
+    
+    OnAddWorkflowEventPredecessorsToLibrary(EventFunctionName); <=====================
+Codeunit<Workflow Event Handling>.PROCEDURE<OnAddWorkflowEventsToLibrary>
+  Raised in: Codeunit<Workflow Event Handling>.PROCEDURE<CreateEventsLibrary>
+    Code lines:
+    ...
+      CreateGenJnlLineFromIncDocSuccessfulEventDescTxt,0,FALSE);
+    AddEventToLibrary(
+      RunWorkflowOnAfterCreateGenJnlLineFromIncomingDocFailCode,DATABASE::"Incoming Document",
+      CreateGenJnlLineFromIncDocFailsEventDescTxt,0,FALSE);
+    
+    OnAddWorkflowEventsToLibrary; <=====================
+    OnAddWorkflowTableRelationsToLibrary;
+Codeunit<Workflow Event Handling>.PROCEDURE<OnAddWorkflowTableRelationsToLibrary>
+  Raised in: Codeunit<Workflow Event Handling>.PROCEDURE<CreateEventsLibrary>
+    Code lines:
+    ...
+    AddEventToLibrary(
+      RunWorkflowOnAfterCreateGenJnlLineFromIncomingDocFailCode,DATABASE::"Incoming Document",
+      CreateGenJnlLineFromIncDocFailsEventDescTxt,0,FALSE);
+    
+    OnAddWorkflowEventsToLibrary;
+    OnAddWorkflowTableRelationsToLibrary; <=====================
+Codeunit<Workflow Response Handling>.PROCEDURE<OnAddWorkflowResponsePredecessorsToLibrary>
+  Raised in: Codeunit<Workflow Response Handling>.PROCEDURE<AddResponsePredecessors>
+    Code lines:
+    ...
+      GetSendToOCRCode:
+        AddResponsePredecessor(GetSendToOCRCode,WorkflowEventHandling.RunWorkflowOnAfterReadyForOCRIncomingDocCode);
+      GetSendToOCRAsyncCode:
+        AddResponsePredecessor(GetSendToOCRAsyncCode,WorkflowEventHandling.RunWorkflowOnAfterReadyForOCRIncomingDocCode);
+    END;
+    OnAddWorkflowResponsePredecessorsToLibrary(ResponseFunctionName); <=====================
+Codeunit<Workflow Response Handling>.PROCEDURE<OnAddWorkflowResponsesToLibrary>
+  Raised in: Codeunit<Workflow Response Handling>.PROCEDURE<CreateResponsesLibrary>
+    Code lines:
+    ...
+    
+    AddResponseToLibrary(RevertValueForFieldCode,0,RevertRecordValueTxt,'GROUP 6');
+    AddResponseToLibrary(ApplyNewValuesCode,0,ApplyNewValuesTxt,'GROUP 7');
+    AddResponseToLibrary(DiscardNewValuesCode,0,DiscardNewValuesTxt,'GROUP 0');
+    
+    OnAddWorkflowResponsesToLibrary; <=====================
+Codeunit<Workflow Response Handling>.PROCEDURE<OnExecuteWorkflowResponse>
+  Raised in: Codeunit<Workflow Response Handling>.PROCEDURE<ExecuteResponse>
+    Code lines:
+    ...
+        ApplyNewValuesCode:
+          WorkflowChangeRecMgt.ApplyNewValues(Variant,ResponseWorkflowStepInstance);
+        DiscardNewValuesCode:
+          WorkflowChangeRecMgt.DiscardNewValues(Variant,ResponseWorkflowStepInstance);
+        ELSE BEGIN
+          OnExecuteWorkflowResponse(ResponseExecuted,Variant,xVariant,ResponseWorkflowStepInstance); <=====================
+          IF NOT ResponseExecuted THEN
+            ERROR(NotSupportedResponseErr,WorkflowResponse."Function Name");
+        END;
+      END;
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnApproveApprovalRequest>
+  Raised in: Codeunit<Approvals Mgmt.>.PROCEDURE<ApproveSelectedApprovalRequest>
+    Code lines:
+    ...
+    IF ApprovalEntry."Approver ID" <> USERID THEN
+      CheckUserAsApprovalAdministrator;
+    
+    ApprovalEntry.VALIDATE(Status,ApprovalEntry.Status::Approved);
+    ApprovalEntry.MODIFY(TRUE);
+    OnApproveApprovalRequest(ApprovalEntry); <=====================
+  Raised in: Codeunit<Approvals Mgmt.>.PROCEDURE<SendApprovalRequestFromRecord>
+    Code lines:
+    ...
+      EXIT;
+    END;
+    
+    ApprovalEntry.SETRANGE(Status,ApprovalEntry.Status::Approved);
+    IF ApprovalEntry.FINDLAST THEN
+      OnApproveApprovalRequest(ApprovalEntry) <=====================
+    ELSE
+      ERROR(NoApprovalRequestsFoundErr);
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelCustomerApprovalRequest>
+  Raised in: Page<Customer List>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelCustomerApprovalRequest(Rec); <=====================
+  Raised in: Page<Customer Card>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelCustomerApprovalRequest(Rec); <=====================
+  Raised in: Table<Customer>.<OnDelete>
+    Code lines:
+    ApprovalsMgmt.OnCancelCustomerApprovalRequest(Rec); <=====================
+    
+    ServiceItem.SETRANGE("Customer No.","No.");
+    IF ServiceItem.FINDFIRST THEN
+      IF CONFIRM(
+           Text008,
+           FALSE,
+           TABLECAPTION,
+           "No.",
+           ServiceItem.FIELDCAPTION("Customer No."))
+    ...
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelGeneralJournalBatchApprovalRequest>
+  Raised in: Codeunit<Approvals Mgmt.>.PROCEDURE<TryCancelJournalBatchApprovalRequest>
+    Code lines:
+    GetGeneralJournalBatch(GenJournalBatch,GenJournalLine);
+    OnCancelGeneralJournalBatchApprovalRequest(GenJournalBatch); <=====================
+  Raised in: Table<Gen. Journal Batch>.<OnDelete>
+    Code lines:
+    ApprovalsMgmt.OnCancelGeneralJournalBatchApprovalRequest(Rec); <=====================
+    
+    GenJnlAlloc.SETRANGE("Journal Template Name","Journal Template Name");
+    GenJnlAlloc.SETRANGE("Journal Batch Name",Name);
+    GenJnlAlloc.DELETEALL;
+    GenJnlLine.SETRANGE("Journal Template Name","Journal Template Name");
+    GenJnlLine.SETRANGE("Journal Batch Name",Name);
+    GenJnlLine.DELETEALL(TRUE);
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelGeneralJournalLineApprovalRequest>
+  Raised in: Codeunit<Approvals Mgmt.>.PROCEDURE<TryCancelJournalLineApprovalRequests>
+    Code lines:
+    REPEAT
+      IF HasOpenApprovalEntries(GenJournalLine.RECORDID) THEN
+        OnCancelGeneralJournalLineApprovalRequest(GenJournalLine); <=====================
+    UNTIL GenJournalLine.NEXT = 0;
+    MESSAGE(ApprovalReqCanceledForSelectedLinesMsg);
+  Raised in: Table<Gen. Journal Line>.<OnDelete>
+    Code lines:
+    ApprovalsMgmt.OnCancelGeneralJournalLineApprovalRequest(Rec); <=====================
+    
+    TESTFIELD("Check Printed",FALSE);
+    
+    ClearCustVendApplnEntry;
+    ClearAppliedGenJnlLine;
+    DeletePaymentFileErrors;
+    ClearDataExchangeEntries(FALSE);
+    
+    GenJnlAlloc.SETRANGE("Journal Template Name","Journal Template Name");
+    ...
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelIncomingDocApprovalRequest>
+  Raised in: Page<Incoming Documents>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelIncomingDocApprovalRequest(Rec); <=====================
+  Raised in: Page<Incoming Document>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelIncomingDocApprovalRequest(Rec); <=====================
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelItemApprovalRequest>
+  Raised in: Page<Item List>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelItemApprovalRequest(Rec); <=====================
+  Raised in: Page<Item Card>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelItemApprovalRequest(Rec); <=====================
+  Raised in: Table<Item>.<OnDelete>
+    Code lines:
+    ApprovalsMgmt.OnCancelItemApprovalRequest(Rec); <=====================
+    
+    CheckJournalsAndWorksheets(0);
+    CheckDocuments(0);
+    
+    MoveEntries.MoveItemEntries(Rec);
+    
+    ServiceItem.RESET;
+    ServiceItem.SETRANGE("Item No.","No.");
+    IF ServiceItem.FIND('-') THEN
+    ...
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelPurchaseApprovalRequest>
+  Raised in: Page<Purchase Return Order List>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelPurchaseApprovalRequest(Rec); <=====================
+  Raised in: Page<Blanket Purchase Orders>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelPurchaseApprovalRequest(Rec); <=====================
+  Raised in: Page<Purchase Credit Memos>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelPurchaseApprovalRequest(Rec); <=====================
+  Raised in: Page<Purchase Invoices>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelPurchaseApprovalRequest(Rec); <=====================
+  Raised in: Page<Purchase Return Order>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelPurchaseApprovalRequest(Rec); <=====================
+  Raised in: Page<Blanket Purchase Order>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelPurchaseApprovalRequest(Rec); <=====================
+  Raised in: Page<Purchase Credit Memo>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelPurchaseApprovalRequest(Rec); <=====================
+  Raised in: Page<Purchase Invoice>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelPurchaseApprovalRequest(Rec); <=====================
+  Raised in: Page<Purchase Order>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelPurchaseApprovalRequest(Rec); <=====================
+  Raised in: Page<Purchase Quote>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelPurchaseApprovalRequest(Rec); <=====================
+  Raised in: Page<Purchase Order List>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelPurchaseApprovalRequest(Rec); <=====================
+  Raised in: Page<Purchase Quotes>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelPurchaseApprovalRequest(Rec); <=====================
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelSalesApprovalRequest>
+  Raised in: Page<Sales Return Order>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelSalesApprovalRequest(Rec); <=====================
+  Raised in: Page<Blanket Sales Order>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelSalesApprovalRequest(Rec); <=====================
+  Raised in: Page<Sales Credit Memo>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelSalesApprovalRequest(Rec); <=====================
+  Raised in: Page<Sales Invoice>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelSalesApprovalRequest(Rec); <=====================
+  Raised in: Page<Sales Order>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelSalesApprovalRequest(Rec); <=====================
+  Raised in: Page<Sales Quote>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelSalesApprovalRequest(Rec); <=====================
+  Raised in: Page<Sales Order List>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelSalesApprovalRequest(Rec); <=====================
+  Raised in: Page<Sales Return Order List>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelSalesApprovalRequest(Rec); <=====================
+  Raised in: Page<Blanket Sales Orders>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelSalesApprovalRequest(Rec); <=====================
+  Raised in: Page<Sales Credit Memos>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelSalesApprovalRequest(Rec); <=====================
+  Raised in: Page<Sales Invoice List>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelSalesApprovalRequest(Rec); <=====================
+  Raised in: Page<Sales Quotes>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelSalesApprovalRequest(Rec); <=====================
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnCancelVendorApprovalRequest>
+  Raised in: Page<Vendor List>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelVendorApprovalRequest(Rec); <=====================
+  Raised in: Page<Vendor Card>.Action<CancelApprovalRequest>.<OnAction>
+    Code lines:
+    ApprovalsMgmt.OnCancelVendorApprovalRequest(Rec); <=====================
+  Raised in: Table<Vendor>.<OnDelete>
+    Code lines:
+    ApprovalsMgmt.OnCancelVendorApprovalRequest(Rec); <=====================
+    
+    MoveEntries.MoveVendorEntries(Rec);
+    
+    CommentLine.SETRANGE("Table Name",CommentLine."Table Name"::Vendor);
+    CommentLine.SETRANGE("No.","No.");
+    CommentLine.DELETEALL;
+    
+    VendBankAcc.SETRANGE("Vendor No.","No.");
+    VendBankAcc.DELETEALL;
+    ...
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnDelegateApprovalRequest>
+  Raised in: Codeunit<Approvals Mgmt.>.PROCEDURE<SubstituteUserIdForApprovalEntry>
+    Code lines:
+    ...
+    ELSE
+      UserSetup.GET(UserSetup.Substitute);
+    
+    ApprovalEntry."Approver ID" := UserSetup."User ID";
+    ApprovalEntry.MODIFY(TRUE);
+    OnDelegateApprovalRequest(ApprovalEntry); <=====================
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnRejectApprovalRequest>
+  Raised in: Codeunit<Approvals Mgmt.>.PROCEDURE<RejectSelectedApprovalRequest>
+    Code lines:
+    ...
+    IF ApprovalEntry."Approver ID" <> USERID THEN
+      CheckUserAsApprovalAdministrator;
+    
+    ApprovalEntry.VALIDATE(Status,ApprovalEntry.Status::Rejected);
+    ApprovalEntry.MODIFY(TRUE);
+    OnRejectApprovalRequest(ApprovalEntry); <=====================
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendCustomerForApproval>
+  Raised in: Page<Customer List>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckCustomerApprovalsWorkflowEnabled(Rec) THEN
+      ApprovalsMgmt.OnSendCustomerForApproval(Rec); <=====================
+  Raised in: Page<Customer Card>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckCustomerApprovalsWorkflowEnabled(Rec) THEN
+      ApprovalsMgmt.OnSendCustomerForApproval(Rec); <=====================
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendGeneralJournalBatchForApproval>
+  Raised in: Codeunit<Approvals Mgmt.>.PROCEDURE<TrySendJournalBatchApprovalRequest>
+    Code lines:
+    ...
+    CheckGeneralJournalBatchApprovalsWorkflowEnabled(GenJournalBatch);
+    IF HasOpenApprovalEntries(GenJournalBatch.RECORDID) OR
+       HasAnyOpenJournalLineApprovalEntries(GenJournalBatch."Journal Template Name",GenJournalBatch.Name)
+    THEN
+      ERROR(PendingJournalBatchApprovalExistsErr);
+    OnSendGeneralJournalBatchForApproval(GenJournalBatch); <=====================
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendGeneralJournalLineForApproval>
+  Raised in: Codeunit<Approvals Mgmt.>.PROCEDURE<TrySendJournalLineApprovalRequests>
+    Code lines:
+    IF GenJournalLine.COUNT = 1 THEN
+      CheckGeneralJournalLineApprovalsWorkflowEnabled(GenJournalLine);
+    
+    REPEAT
+      IF WorkflowManagement.CanExecuteWorkflow(GenJournalLine,
+           WorkflowEventHandling.RunWorkflowOnSendGeneralJournalLineForApprovalCode) AND <=====================
+         NOT HasOpenApprovalEntries(GenJournalLine.RECORDID)
+      THEN BEGIN
+        OnSendGeneralJournalLineForApproval(GenJournalLine); <=====================
+        LinesSent += 1;
+    ...
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendIncomingDocForApproval>
+  Raised in: Page<Incoming Documents>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    TestReadyForApproval;
+    IF ApprovalsMgmt.CheckIncomingDocApprovalsWorkflowEnabled(Rec) THEN
+      ApprovalsMgmt.OnSendIncomingDocForApproval(Rec); <=====================
+  Raised in: Page<Incoming Document>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    TestReadyForApproval;
+    IF ApprovalsMgmt.CheckIncomingDocApprovalsWorkflowEnabled(Rec) THEN
+      ApprovalsMgmt.OnSendIncomingDocForApproval(Rec); <=====================
+  Raised in: Codeunit<Office Management>.PROCEDURE<SendApprovalRequest>
+    Code lines:
+    IncomingDocument.TestReadyForApproval;
+    IF ApprovalsMgmt.CheckIncomingDocApprovalsWorkflowEnabled(IncomingDocument) THEN
+      ApprovalsMgmt.OnSendIncomingDocForApproval(IncomingDocument); <=====================
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendItemForApproval>
+  Raised in: Page<Item List>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckItemApprovalsWorkflowEnabled(Rec) THEN
+      ApprovalsMgmt.OnSendItemForApproval(Rec); <=====================
+  Raised in: Page<Item Card>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckItemApprovalsWorkflowEnabled(Rec) THEN
+      ApprovalsMgmt.OnSendItemForApproval(Rec); <=====================
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendPurchaseDocForApproval>
+  Raised in: Page<Purchase Return Order List>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckPurchaseApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendPurchaseDocForApproval(Rec); <=====================
+  Raised in: Page<Blanket Purchase Orders>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckPurchaseApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendPurchaseDocForApproval(Rec); <=====================
+  Raised in: Page<Purchase Credit Memos>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckPurchaseApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendPurchaseDocForApproval(Rec); <=====================
+  Raised in: Page<Purchase Invoices>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckPurchaseApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendPurchaseDocForApproval(Rec); <=====================
+  Raised in: Page<Purchase Return Order>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckPurchaseApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendPurchaseDocForApproval(Rec); <=====================
+  Raised in: Page<Blanket Purchase Order>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckPurchaseApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendPurchaseDocForApproval(Rec); <=====================
+  Raised in: Page<Purchase Credit Memo>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckPurchaseApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendPurchaseDocForApproval(Rec); <=====================
+  Raised in: Page<Purchase Invoice>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckPurchaseApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendPurchaseDocForApproval(Rec); <=====================
+  Raised in: Page<Purchase Order>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckPurchaseApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendPurchaseDocForApproval(Rec); <=====================
+  Raised in: Page<Purchase Quote>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF  ApprovalsMgmt.CheckPurchaseApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendPurchaseDocForApproval(Rec); <=====================
+  Raised in: Page<Purchase Order List>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckPurchaseApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendPurchaseDocForApproval(Rec); <=====================
+  Raised in: Page<Purchase Quotes>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckPurchaseApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendPurchaseDocForApproval(Rec); <=====================
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendSalesDocForApproval>
+  Raised in: Page<Sales Return Order>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckSalesApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendSalesDocForApproval(Rec); <=====================
+  Raised in: Page<Blanket Sales Order>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckSalesApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendSalesDocForApproval(Rec); <=====================
+  Raised in: Page<Sales Credit Memo>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckSalesApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendSalesDocForApproval(Rec); <=====================
+  Raised in: Page<Sales Invoice>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckSalesApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendSalesDocForApproval(Rec); <=====================
+  Raised in: Page<Sales Order>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckSalesApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendSalesDocForApproval(Rec); <=====================
+  Raised in: Page<Sales Quote>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckSalesApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendSalesDocForApproval(Rec); <=====================
+  Raised in: Page<Sales Order List>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckSalesApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendSalesDocForApproval(Rec); <=====================
+  Raised in: Page<Sales Return Order List>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckSalesApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendSalesDocForApproval(Rec); <=====================
+  Raised in: Page<Blanket Sales Orders>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckSalesApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendSalesDocForApproval(Rec); <=====================
+  Raised in: Page<Sales Credit Memos>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckSalesApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendSalesDocForApproval(Rec); <=====================
+  Raised in: Page<Sales Invoice List>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckSalesApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendSalesDocForApproval(Rec); <=====================
+  Raised in: Page<Sales Quotes>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckSalesApprovalPossible(Rec) THEN
+      ApprovalsMgmt.OnSendSalesDocForApproval(Rec); <=====================
+Codeunit<Approvals Mgmt.>.PROCEDURE<OnSendVendorForApproval>
+  Raised in: Page<Vendor List>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckVendorApprovalsWorkflowEnabled(Rec) THEN
+      ApprovalsMgmt.OnSendVendorForApproval(Rec); <=====================
+  Raised in: Page<Vendor Card>.Action<SendApprovalRequest>.<OnAction>
+    Code lines:
+    IF ApprovalsMgmt.CheckVendorApprovalsWorkflowEnabled(Rec) THEN
+      ApprovalsMgmt.OnSendVendorForApproval(Rec); <=====================
+Codeunit<Office Host Management>.PROCEDURE<OnCloseCurrentPage>
+  Raised in: Codeunit<Office Host Management>.PROCEDURE<CloseCurrentPage>
+    Code lines:
+    OnCloseCurrentPage; <=====================
+Codeunit<Office Host Management>.PROCEDURE<OnEmailHasAttachments>
+  Raised in: Codeunit<Office Host Management>.PROCEDURE<EmailHasAttachments>
+    Code lines:
+    OnEmailHasAttachments(Result); <=====================
+    EXIT(Result);
+Codeunit<Office Host Management>.PROCEDURE<OnGetEmailAndAttachments>
+  Raised in: Codeunit<Office Host Management>.PROCEDURE<GetEmailAndAttachments>
+    Code lines:
+    OnGetEmailAndAttachments(TempExchangeObject,Action,VendorNumber); <=====================
+Codeunit<Office Host Management>.PROCEDURE<OnGetHostType>
+  Raised in: Codeunit<Office Host Management>.PROCEDURE<GetHostType>
+    Code lines:
+    CheckHost;
+    OnGetHostType(HostType); <=====================
+    EXIT(HostType);
+Codeunit<Office Host Management>.PROCEDURE<OnGetTempOfficeAddinContext>
+  Raised in: Codeunit<Office Host Management>.PROCEDURE<GetTempOfficeAddinContext>
+    Code lines:
+    OnGetTempOfficeAddinContext(TempOfficeAddinContext); <=====================
+Codeunit<Office Host Management>.PROCEDURE<OnInitializeContext>
+  Raised in: Codeunit<Office Host Management>.PROCEDURE<InitializeContext>
+    Code lines:
+    CheckHost;
+    OnInitializeContext(TempNewOfficeAddinContext); <=====================
+Codeunit<Office Host Management>.PROCEDURE<OnInitializeExchangeObject>
+  Raised in: Codeunit<Office Host Management>.PROCEDURE<InitializeExchangeObject>
+    Code lines:
+    CheckHost;
+    OnInitializeExchangeObject; <=====================
+Codeunit<Office Host Management>.PROCEDURE<OnInitializeHost>
+  Raised in: Codeunit<Office Host Management>.PROCEDURE<InitializeHost>
+    Code lines:
+    OnInitializeHost(NewOfficeHost,NewHostType); <=====================
+Codeunit<Office Host Management>.PROCEDURE<OnInvokeExtension>
+  Raised in: Codeunit<Office Host Management>.PROCEDURE<InvokeExtension>
+    Code lines:
+    CheckHost;
+    OnInvokeExtension(FunctionName,Parameter1,Parameter2,Parameter3); <=====================
+Codeunit<Office Host Management>.PROCEDURE<OnIsAvailable>
+  Raised in: Codeunit<Office Host Management>.PROCEDURE<IsAvailable>
+    Code lines:
+    OnIsAvailable(Result); <=====================
+    EXIT(Result);
+Codeunit<Office Host Management>.PROCEDURE<OnIsHostInitialized>
+  Raised in: Codeunit<Office Host Management>.PROCEDURE<CheckHost>
+    Code lines:
+    OnIsHostInitialized(Result); <=====================
+    IF NOT Result THEN
+      ERROR(OfficeHostNotInitializedErr);
+Codeunit<Office Host Management>.PROCEDURE<OnSendToOCR>
+  Raised in: Codeunit<Office Host Management>.PROCEDURE<SendToOCR>
+    Code lines:
+    OnSendToOCR(IncomingDocument); <=====================
+Codeunit<Payroll Management>.PROCEDURE<OnImportPayroll>
+  Raised in: Codeunit<Payroll Management>.PROCEDURE<ImportPayroll>
+    Code lines:
+    ...
+        EXIT;
+    END;
+    
+    IF EnabledPayrollServiceExists(TempServiceConnection) THEN
+      IF SelectPayrollService(TempServiceConnection,SelectPayrollServiceToUseTxt) THEN
+        OnImportPayroll(TempServiceConnection,GenJournalLine); <=====================
+Codeunit<Payroll Management>.PROCEDURE<OnRegisterPayrollService>
+  Raised in: Page<General Journal>.PROCEDURE<SetPayrollAppearance>
+    Code lines:
+    PayrollManagement.OnRegisterPayrollService(TempPayrollServiceConnection); <=====================
+    ImportPayrollTransactionsAvailable := NOT TempPayrollServiceConnection.ISEMPTY;
+  Raised in: Codeunit<Payroll Management>.PROCEDURE<ImportPayroll>
+    Code lines:
+    TempServiceConnection.DELETEALL;
+    OnRegisterPayrollService(TempServiceConnection); <=====================
+    
+    IF TempServiceConnection.ISEMPTY THEN
+      ERROR(PayrollServiceNotFoundErr);
+    
+    IF NOT EnabledPayrollServiceExists(TempServiceConnection) THEN BEGIN
+      IF CONFIRM(EnablePayrollServicesQst) THEN
+        EnablePayrollService(TempServiceConnection)
+      ELSE
+    ...
+  Raised in: Codeunit<Payroll Management>.PROCEDURE<EnablePayrollService>
+    Code lines:
+    ...
+    IF SelectPayrollService(TempServiceConnection,SelectPayrollServiceToEnableTxt) THEN BEGIN
+      SelectedServiceRecordId := TempServiceConnection."Record ID";
+      SelectedServiceName := TempServiceConnection.Name;
+      SetupPayrollService(TempServiceConnection);
+      TempServiceConnection.DELETEALL;
+      OnRegisterPayrollService(TempServiceConnection); <=====================
+      IF NOT TempServiceConnection.ISEMPTY THEN BEGIN
+        TempServiceConnection.SETRANGE("Record ID",SelectedServiceRecordId);
+        IF NOT EnabledPayrollServiceExists(TempServiceConnection) THEN
+          ERROR(PayrollServiceDisabledErr,SelectedServiceName);
+    ...
+Codeunit<Encrypted Key/Value Management>.PROCEDURE<OnCleanUpEvent>
+  Raised in: Codeunit<Encrypted Key/Value Management>.PROCEDURE<Cleanup>
+    Code lines:
+    ...
+    
+    LogActivity(CleanupEventTxt,RequestInitTxt,TRUE);
+    COMMIT;
+    
+    ErrorOccured := FALSE;
+    OnCleanUpEvent(ErrorOccured); <=====================
+    
+    IF NOT ErrorOccured THEN
+      EncryptedKeyValue.DELETEALL;
+    
+    ...
+Codeunit<Excel Data Migrator>.PROCEDURE<OnDownloadTemplate>
+  Raised in: Codeunit<Excel Data Migrator>.PROCEDURE<ExportExcelTemplate>
+    Code lines:
+    OnDownloadTemplate(HideDialog); <=====================
+    EXIT(ExportExcelTemplateByFileName(FileName,HideDialog));
+Codeunit<Excel Data Migrator>.PROCEDURE<OnUploadFile>
+  Raised in: Codeunit<Excel Data Migrator>.PROCEDURE<ImportExcelData>
+    Code lines:
+    OnUploadFile(ServerFile); <=====================
+    IF ServerFile = '' THEN
+      ServerFile := COPYSTR(FileManagement.UploadFile(ImportFromExcelTxt,ExcelFileExtensionTok),
+          1,MAXSTRLEN(ServerFile));
+    
+    IF ServerFile <> '' THEN BEGIN
+      ImportExcelDataByFileName(ServerFile);
+      EXIT(TRUE);
+    END;
+    
+Codeunit<Gen. Jnl.-Post Preview>.PROCEDURE<OnRunPreview>
+  Raised in: Codeunit<Gen. Jnl.-Post Preview>.PROCEDURE<RunPreview>
+    Code lines:
+    OnRunPreview(Result,Subscriber,RecVar); <=====================
+    EXIT(Result);
+Codeunit<Company-Initialize>.PROCEDURE<OnCompanyInitialize>
+  Raised in: Codeunit<Company-Initialize>.<OnRun>
+    Code lines:
+    ...
+    InitVATRegNrValidationSetup;
+    WorkflowSetup.InitWorkflow;
+    TransformationRule.CreateDefaultTransformations;
+    InitElectronicFormats;
+    
+    OnCompanyInitialize; <=====================
+    
+    Window.CLOSE;
+    
+    COMMIT;
+Codeunit<Item Jnl.-Check Line>.PROCEDURE<OnAfterCheckItemJnlLine>
+  Raised in: Codeunit<Item Jnl.-Check Line>.PROCEDURE<RunCheck>
+    Code lines:
+    ...
+          TESTFIELD("Applies-to Entry");
+    
+      CheckDimensions(ItemJnlLine);
+    END;
+    
+    OnAfterCheckItemJnlLine(ItemJnlLine); <=====================
+Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnAfterInitItemLedgEntry>
+  Raised in: Codeunit<Item Jnl.-Post Line>.PROCEDURE<InitItemLedgEntry>
+    Code lines:
+    ...
+      END;
+      IF (ItemLedgEntry.Quantity < 0) AND ("Entry Type" <> "Entry Type"::Transfer) THEN
+        ItemLedgEntry."Shipped Qty. Not Returned" := ItemLedgEntry.Quantity;
+    END;
+    
+    OnAfterInitItemLedgEntry(ItemLedgEntry,ItemJnlLine); <=====================
+Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnAfterInsertCorrItemLedgEntry>
+  Raised in: Codeunit<Item Jnl.-Post Line>.PROCEDURE<InitCorrItemLedgEntry>
+    Code lines:
+    ...
+    
+    OnBeforeInsertCorrItemLedgEntry(NewItemLedgEntry,OldItemLedgEntry,ItemJnlLine);
+    
+    NewItemLedgEntry.INSERT;
+    
+    OnAfterInsertCorrItemLedgEntry(NewItemLedgEntry,ItemJnlLine); <=====================
+    
+    IF NewItemLedgEntry."Item Tracking" <> NewItemLedgEntry."Item Tracking"::None THEN
+      ItemTrackingMgt.ExistingExpirationDate(
+        NewItemLedgEntry."Item No.",
+    ...
+Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnAfterInsertCorrValueEntry>
+  Raised in: Codeunit<Item Jnl.-Post Line>.PROCEDURE<InsertCorrValueEntry>
+    Code lines:
+    ...
+    IF NewValueEntry.Inventoriable THEN
+      PostInventoryToGL(NewValueEntry);
+    
+    NewValueEntry.INSERT;
+    
+    OnAfterInsertCorrValueEntry(NewValueEntry,ItemJnlLine); <=====================
+    
+    ItemApplnEntry.SetOutboundsNotUpdated(ItemLedgEntry);
+    
+    UpdateAdjmtProp(NewValueEntry,ItemLedgEntry."Posting Date");
+    ...
+Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnAfterInsertItemLedgEntry>
+  Raised in: Codeunit<Item Jnl.-Post Line>.PROCEDURE<InsertItemLedgEntry>
+    Code lines:
+    ...
+    
+      ItemLedgEntry.UpdateItemTracking;
+    
+      ItemLedgEntry.INSERT(TRUE);
+    
+      OnAfterInsertItemLedgEntry(ItemLedgEntry,ItemJnlLine); <=====================
+    
+      InsertItemReg(ItemLedgEntry."Entry No.",0,0,0);
+    END;
+Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnAfterInsertValueEntry>
+  Raised in: Codeunit<Item Jnl.-Post Line>.PROCEDURE<InsertValueEntry>
+    Code lines:
+    ...
+      IF ValueEntry.Inventoriable THEN
+        PostInventoryToGL(ValueEntry);
+    
+      ValueEntry.INSERT;
+    
+      OnAfterInsertValueEntry(ValueEntry,ItemJnlLine); <=====================
+    
+      ItemApplnEntry.SetOutboundsNotUpdated(ItemLedgEntry);
+    
+      UpdateAdjmtProp(ValueEntry,ItemLedgEntry."Posting Date");
+    ...
+Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnAfterPostItemJnlLine>
+  Raised in: Codeunit<Item Jnl.-Post Line>.PROCEDURE<Code>
+    Code lines:
+    ...
+        "Item Shpt. Entry No." := CapLedgEntryNo
+      ELSE
+        "Item Shpt. Entry No." := GlobalItemLedgEntry."Entry No.";
+    END;
+    
+    OnAfterPostItemJnlLine(ItemJnlLine); <=====================
+Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnBeforeInsertCorrItemLedgEntry>
+  Raised in: Codeunit<Item Jnl.-Post Line>.PROCEDURE<InitCorrItemLedgEntry>
+    Code lines:
+    ...
+    IF OldItemLedgEntry.Positive THEN
+      NewItemLedgEntry."Applies-to Entry" := OldItemLedgEntry."Entry No."
+    ELSE
+      NewItemLedgEntry."Applies-to Entry" := 0;
+    
+    OnBeforeInsertCorrItemLedgEntry(NewItemLedgEntry,OldItemLedgEntry,ItemJnlLine); <=====================
+    
+    NewItemLedgEntry.INSERT;
+    
+    OnAfterInsertCorrItemLedgEntry(NewItemLedgEntry,ItemJnlLine);
+    ...
+Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnBeforeInsertCorrValueEntry>
+  Raised in: Codeunit<Item Jnl.-Post Line>.PROCEDURE<InsertCorrValueEntry>
+    Code lines:
+    ...
+    NewValueEntry."Cost Posted to G/L" := 0;
+    NewValueEntry."Cost Posted to G/L (ACY)" := 0;
+    NewValueEntry."Expected Cost Posted to G/L" := 0;
+    NewValueEntry."Exp. Cost Posted to G/L (ACY)" := 0;
+    
+    OnBeforeInsertCorrValueEntry(NewValueEntry,OldValueEntry,ItemJnlLine); <=====================
+    
+    IF NewValueEntry.Inventoriable THEN
+      PostInventoryToGL(NewValueEntry);
+    
+    ...
+Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnBeforeInsertTransferEntry>
+  Raised in: Codeunit<Item Jnl.-Post Line>.PROCEDURE<InsertTransferEntry>
+    Code lines:
+    ...
+            ItemJnlLine,NewItemLedgEntry,NewItemLedgEntry."Remaining Quantity",TRUE);
+    
+      ApplyItemLedgEntry(NewItemLedgEntry,ItemLedgEntry2,NewValueEntry,TRUE);
+      AutoTrack(NewItemLedgEntry,IsReserved);
+    
+      OnBeforeInsertTransferEntry(NewItemLedgEntry,OldItemLedgEntry,ItemJnlLine); <=====================
+    
+      InsertItemLedgEntry(NewItemLedgEntry,TRUE);
+      InsertValueEntry(NewValueEntry,NewItemLedgEntry,TRUE);
+    
+    ...
+Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnBeforeInsertValueEntry>
+  Raised in: Codeunit<Item Jnl.-Post Line>.PROCEDURE<InsertValueEntry>
+    Code lines:
+    ...
+          ValueEntry."Sales Amount (Expected)",
+          ValueEntry."Purchase Amount (Expected)",
+          ItemLedgEntry.Quantity = ItemLedgEntry."Invoiced Quantity");
+      END;
+    
+      OnBeforeInsertValueEntry(ValueEntry,ItemJnlLine); <=====================
+    
+      IF ValueEntry.Inventoriable THEN
+        PostInventoryToGL(ValueEntry);
+    
+    ...
+Codeunit<Item Jnl.-Post Line>.PROCEDURE<OnBeforePostItemJnlLine>
+  Raised in: Codeunit<Item Jnl.-Post Line>.PROCEDURE<Code>
+    Code lines:
+    OnBeforePostItemJnlLine(ItemJnlLine); <=====================
+    
+    WITH ItemJnlLine DO BEGIN
+      IF EmptyLine AND NOT Correction AND NOT Adjustment THEN
+        IF NOT IsValueEntryForDeletedItem THEN
+          EXIT;
+    
+      ItemJnlCheckLine.SetCalledFromInvtPutawayPick(CalledFromInvtPutawayPick);
+      ItemJnlCheckLine.SetCalledFromAdjustment(CalledFromAdjustment);
+    
+    ...
+Codeunit<ClientTypeManagement>.PROCEDURE<OnAfterGetCurrentClientType>
+  Raised in: Codeunit<ClientTypeManagement>.PROCEDURE<GetCurrentClientType>
+    Code lines:
+    CurrClientType := CURRENTCLIENTTYPE;
+    OnAfterGetCurrentClientType(CurrClientType); <=====================
+Codeunit<LogInManagement>.PROCEDURE<OnAfterLogInStart>
+  Raised in: Codeunit<LogInManagement>.PROCEDURE<LogInStart>
+    Code lines:
+    ...
+    SetupMyVendor;
+    SetupMyAccount;
+    
+    ApplicationAreaSetup.SetupApplicationArea;
+    
+    OnAfterLogInStart; <=====================
+Codeunit<DimensionManagement>.PROCEDURE<OnAfterSetupObjectNoList>
+  Raised in: Codeunit<DimensionManagement>.PROCEDURE<SetupObjectNoList>
+    Code lines:
+    ...
+    InsertObject(TempAllObjWithCaption,DATABASE::"Service Order Type");
+    InsertObject(TempAllObjWithCaption,DATABASE::"Service Item Group");
+    InsertObject(TempAllObjWithCaption,DATABASE::"Service Item");
+    InsertObject(TempAllObjWithCaption,DATABASE::"Cash Flow Manual Expense");
+    InsertObject(TempAllObjWithCaption,DATABASE::"Cash Flow Manual Revenue");
+    OnAfterSetupObjectNoList(TempAllObjWithCaption); <=====================
+Codeunit<Release Sales Document>.PROCEDURE<OnAfterReleaseATOs>
+  Raised in: Codeunit<Release Sales Document>.PROCEDURE<Code>
+    Code lines:
+    ...
+      LinesWereModified := LinesWereModified OR
+        SalesLine.UpdateVATOnLines(0,SalesHeader,SalesLine,TempVATAmountLine0) OR
+        SalesLine.UpdateVATOnLines(1,SalesHeader,SalesLine,TempVATAmountLine1);
+    
+      ReleaseATOs(SalesHeader);
+      OnAfterReleaseATOs(SalesHeader,SalesLine); <=====================
+    
+      MODIFY(TRUE);
+    
+      IF NotOnlyDropShipment THEN
+    ...
+Codeunit<Release Sales Document>.PROCEDURE<OnAfterReleaseSalesDoc>
+  Raised in: Codeunit<Release Sales Document>.PROCEDURE<Code>
+    Code lines:
+    ...
+    
+      IF NotOnlyDropShipment THEN
+        IF "Document Type" IN ["Document Type"::Order,"Document Type"::"Return Order"] THEN
+          WhseSalesRelease.Release(SalesHeader);
+    
+      OnAfterReleaseSalesDoc(SalesHeader,PreviewMode); <=====================
+    END;
+Codeunit<Release Sales Document>.PROCEDURE<OnAfterReopenSalesDoc>
+  Raised in: Codeunit<Release Sales Document>.PROCEDURE<Reopen>
+    Code lines:
+    ...
+      MODIFY(TRUE);
+      IF "Document Type" IN ["Document Type"::Order,"Document Type"::"Return Order"] THEN
+        WhseSalesRelease.Reopen(SalesHeader);
+    END;
+    
+    OnAfterReopenSalesDoc(SalesHeader); <=====================
+Codeunit<Release Sales Document>.PROCEDURE<OnBeforeReleaseSalesDoc>
+  Raised in: Codeunit<Release Sales Document>.PROCEDURE<Code>
+    Code lines:
+    WITH SalesHeader DO BEGIN
+      IF Status = Status::Released THEN
+        EXIT;
+    
+      OnBeforeReleaseSalesDoc(SalesHeader,PreviewMode); <=====================
+      IF NOT PreviewMode THEN
+        OnCheckSalesReleaseRestrictions;
+    
+      IF "Document Type" = "Document Type"::Quote THEN
+        IF CheckCustomerCreated(TRUE) THEN
+    ...
+Codeunit<Release Sales Document>.PROCEDURE<OnBeforeReopenSalesDoc>
+  Raised in: Codeunit<Release Sales Document>.PROCEDURE<Reopen>
+    Code lines:
+    OnBeforeReopenSalesDoc(SalesHeader); <=====================
+    
+    WITH SalesHeader DO BEGIN
+      IF Status = Status::Open THEN
+        EXIT;
+      Status := Status::Open;
+    
+      IF "Document Type" <> "Document Type"::Order THEN
+        ReopenATOs(SalesHeader);
+    
+    ...
+Codeunit<Release Purchase Document>.PROCEDURE<OnAfterReleasePurchaseDoc>
+  Raised in: Codeunit<Release Purchase Document>.PROCEDURE<Code>
+    Code lines:
+    ...
+    
+      IF NotOnlyDropShipment THEN
+        IF "Document Type" IN ["Document Type"::Order,"Document Type"::"Return Order"] THEN
+          WhsePurchRelease.Release(PurchaseHeader);
+    
+      OnAfterReleasePurchaseDoc(PurchaseHeader,PreviewMode); <=====================
+    END;
+Codeunit<Release Purchase Document>.PROCEDURE<OnAfterReopenPurchaseDoc>
+  Raised in: Codeunit<Release Purchase Document>.PROCEDURE<Reopen>
+    Code lines:
+    ...
+      Status := Status::Open;
+    
+      MODIFY(TRUE);
+    END;
+    
+    OnAfterReopenPurchaseDoc(PurchHeader); <=====================
+Codeunit<Release Purchase Document>.PROCEDURE<OnBeforeReleasePurchaseDoc>
+  Raised in: Codeunit<Release Purchase Document>.PROCEDURE<Code>
+    Code lines:
+    WITH PurchaseHeader DO BEGIN
+      IF Status = Status::Released THEN
+        EXIT;
+    
+      OnBeforeReleasePurchaseDoc(PurchaseHeader,PreviewMode); <=====================
+      IF NOT PreviewMode THEN
+        OnCheckPurchaseReleaseRestrictions;
+    
+      TESTFIELD("Buy-from Vendor No.");
+    
+    ...
+Codeunit<Release Purchase Document>.PROCEDURE<OnBeforeReopenPurchaseDoc>
+  Raised in: Codeunit<Release Purchase Document>.PROCEDURE<Reopen>
+    Code lines:
+    OnBeforeReopenPurchaseDoc(PurchHeader); <=====================
+    
+    WITH PurchHeader DO BEGIN
+      IF Status = Status::Open THEN
+        EXIT;
+      IF "Document Type" IN ["Document Type"::Order,"Document Type"::"Return Order"] THEN
+        WhsePurchRelease.Reopen(PurchHeader);
+      Status := Status::Open;
+    
+      MODIFY(TRUE);
+    ...
+Codeunit<User Management>.PROCEDURE<OnAfterRenameRecord>
+  Raised in: Codeunit<User Management>.PROCEDURE<RenameRecord>
+    Code lines:
+    ...
+            MyTimeSheets.CHANGECOMPANY(Company);
+            RecRef.SETTABLE(MyTimeSheets);
+            MyTimeSheets.RENAME(UserName,MyTimeSheets."Time Sheet No.");
+          END;
+      END;
+    OnAfterRenameRecord(RecRef,TableNo,NumberOfPrimaryKeyFields,UserName,Company); <=====================
+Codeunit<Job Queue - Enqueue>.PROCEDURE<OnBeforeJobQueueScheduleTask>
+  Raised in: Codeunit<Job Queue - Enqueue>.PROCEDURE<EnqueueJobQueueEntry>
+    Code lines:
+    ...
+    JobQueueEntry.Status := JobQueueEntry.Status::"On Hold";
+    JobQueueEntry."User Language ID" := GLOBALLANGUAGE;
+    IF NOT JobQueueEntry.INSERT(TRUE) THEN
+      JobQueueEntry.MODIFY(TRUE);
+    
+    OnBeforeJobQueueScheduleTask(DoNotScheduleTask); <=====================
+    
+    IF DoNotScheduleTask THEN
+      EXIT;
+    
+    ...
+Codeunit<Integration Record Synch.>.PROCEDURE<OnTransferFieldData>
+  Raised in: Codeunit<Integration Record Synch.>.PROCEDURE<TransferFieldData>
+    Code lines:
+    // OnTransferFieldData is an event for handling an exceptional mapping that is not implemented by integration records <=====================
+    OnTransferFieldData(SourceFieldRef,DestinationFieldRef,NewValue,IsValueFound,NeedsConversion); <=====================
+    IF IsValueFound THEN BEGIN
+      IF NOT NeedsConversion THEN
+        EXIT(SetDestinationValue(DestinationFieldRef,NewValue,ValidateDestinationField));
+    END ELSE
+      NewValue := SourceFieldRef.VALUE;
+    
+    IF NOT NeedsConversion AND
+       (SourceFieldRef.TYPE = DestinationFieldRef.TYPE) AND (DestinationFieldRef.LENGTH >= SourceFieldRef.LENGTH)
+    ...
+Codeunit<CRM Integration Table Synch.>.PROCEDURE<OnQueryPostFilterIgnoreRecord>
+  Raised in: Codeunit<CRM Integration Table Synch.>.PROCEDURE<SynchNAVTableToCRM>
+    Code lines:
+    ...
+      CreateCRMIntegrationRecordClone(IntegrationTableMapping."Table ID",TempCRMIntegrationRecord);
+      CacheFilteredNAVTable(SourceRecordRef,IntegrationTableMapping);
+      REPEAT
+        IgnoreRecord := FALSE;
+        IF SourceRecordRef.GET(IntegrationRecord."Record ID") THEN BEGIN
+          OnQueryPostFilterIgnoreRecord(SourceRecordRef,IgnoreRecord); <=====================
+          IF NOT IgnoreRecord THEN BEGIN
+            IF NOT TempCRMIntegrationRecord.IsIntegrationIdCoupled(IntegrationRecord."Integration ID") THEN
+              IgnoreRecord := IntegrationTableMapping."Synch. Only Coupled Records";
+            IF NOT IgnoreRecord THEN
+    ...
+  Raised in: Codeunit<CRM Integration Table Synch.>.PROCEDURE<SynchCRMTableToNAV>
+    Code lines:
+    ...
+    CacheFilteredCRMTable(SourceRecordRef,IntegrationTableMapping,IntegrationUserId);
+    CreateCRMIntegrationRecordClone(IntegrationTableMapping."Table ID",TempCRMIntegrationRecord);
+    IF SourceRecordRef.FINDSET THEN
+      REPEAT
+        IgnoreRecord := FALSE;
+        OnQueryPostFilterIgnoreRecord(SourceRecordRef,IgnoreRecord); <=====================
+        IF NOT IgnoreRecord THEN BEGIN
+          IF TempCRMIntegrationRecord.IsCRMRecordRefCoupled(SourceRecordRef) THEN
+            TempCRMIntegrationRecord.DELETE
+          ELSE
+    ...
+Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnAfterApplyRecordTemplate>
+  Raised in: Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<ApplyConfigTemplate>
+    Code lines:
+    ...
+      OnBeforeApplyRecordTemplate(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef,ConfigTemplateCode);
+    
+      IF ConfigTemplateHeader.GET(ConfigTemplateCode) THEN BEGIN
+        ConfigTemplateManagement.UpdateRecord(ConfigTemplateHeader,DestinationRecordRef);
+    
+        OnAfterApplyRecordTemplate(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef); <=====================
+      END ELSE BEGIN
+        SynchAction := SynchActionType::Fail;
+        LogSynchError(
+          SourceRecordRef,DestinationRecordRef,
+    ...
+Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnAfterInsertRecord>
+  Raised in: Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<InsertRecord>
+    Code lines:
+    OnBeforeInsertRecord(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef);
+    IF DestinationRecordRef.INSERT(TRUE) THEN BEGIN
+      ApplyConfigTemplate(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef,JobId,SynchAction);
+      IF SynchAction <> SynchActionType::Fail THEN BEGIN
+        UpdateIntegrationRecordCoupling(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef,IntegrationTableConnectionType);
+        OnAfterInsertRecord(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef); <=====================
+      END;
+    END ELSE BEGIN
+      SynchAction := SynchActionType::Fail;
+      LogSynchError(
+    ...
+Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnAfterModifyRecord>
+  Raised in: Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<ModifyRecord>
+    Code lines:
+    OnBeforeModifyRecord(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef);
+    
+    IF DestinationRecordRef.MODIFY(TRUE) THEN BEGIN
+      UpdateIntegrationRecordCoupling(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef,IntegrationTableConnectionType);
+      OnAfterModifyRecord(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef); <=====================
+    END ELSE BEGIN
+      SynchAction := SynchActionType::Fail;
+      LogSynchError(
+        SourceRecordRef,DestinationRecordRef,
+        STRSUBSTNO(ModifyFailedErr,DestinationRecordRef.CAPTION,TextManagement.RemoveMessageTrailingDots(GETLASTERRORTEXT)),JobId);
+    ...
+Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnAfterTransferRecordFields>
+  Raised in: Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<TransferFields>
+    Code lines:
+    ...
+    
+    IntegrationRecordSynch.SetParameters(SourceRecordRef,DestinationRecordRef,SynchAction <> SynchActionType::Insert);
+    IF IntegrationRecordSynch.RUN THEN BEGIN
+      IF ConflictFound AND IntegrationRecordSynch.GetWasModified THEN
+        EXIT;
+      OnAfterTransferRecordFields(SourceRecordRef,DestinationRecordRef, <=====================
+        AdditionalFieldsModified,SynchAction <> SynchActionType::Insert);
+      AdditionalFieldsModified := AdditionalFieldsModified OR IntegrationRecordSynch.GetWasModified;
+    END ELSE BEGIN
+      SynchAction := SynchActionType::Fail;
+    ...
+Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnBeforeApplyRecordTemplate>
+  Raised in: Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<ApplyConfigTemplate>
+    Code lines:
+    IF DestinationRecordRef.NUMBER = IntegrationTableMapping."Integration Table ID" THEN
+      ConfigTemplateCode := IntegrationTableMapping."Int. Tbl. Config Template Code"
+    ELSE
+      ConfigTemplateCode := IntegrationTableMapping."Table Config Template Code";
+    IF ConfigTemplateCode <> '' THEN BEGIN
+      OnBeforeApplyRecordTemplate(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef,ConfigTemplateCode); <=====================
+    
+      IF ConfigTemplateHeader.GET(ConfigTemplateCode) THEN BEGIN
+        ConfigTemplateManagement.UpdateRecord(ConfigTemplateHeader,DestinationRecordRef);
+    
+    ...
+Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnBeforeInsertRecord>
+  Raised in: Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<InsertRecord>
+    Code lines:
+    OnBeforeInsertRecord(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef); <=====================
+    IF DestinationRecordRef.INSERT(TRUE) THEN BEGIN
+      ApplyConfigTemplate(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef,JobId,SynchAction);
+      IF SynchAction <> SynchActionType::Fail THEN BEGIN
+        UpdateIntegrationRecordCoupling(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef,IntegrationTableConnectionType);
+        OnAfterInsertRecord(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef);
+      END;
+    END ELSE BEGIN
+      SynchAction := SynchActionType::Fail;
+      LogSynchError(
+    ...
+Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnBeforeModifyRecord>
+  Raised in: Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<ModifyRecord>
+    Code lines:
+    OnBeforeModifyRecord(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef); <=====================
+    
+    IF DestinationRecordRef.MODIFY(TRUE) THEN BEGIN
+      UpdateIntegrationRecordCoupling(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef,IntegrationTableConnectionType);
+      OnAfterModifyRecord(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef);
+    END ELSE BEGIN
+      SynchAction := SynchActionType::Fail;
+      LogSynchError(
+        SourceRecordRef,DestinationRecordRef,
+        STRSUBSTNO(ModifyFailedErr,DestinationRecordRef.CAPTION,TextManagement.RemoveMessageTrailingDots(GETLASTERRORTEXT)),JobId);
+    ...
+Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnBeforeTransferRecordFields>
+  Raised in: Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<TransferFields>
+    Code lines:
+    OnBeforeTransferRecordFields(SourceRecordRef,DestinationRecordRef); <=====================
+    
+    IntegrationRecordSynch.SetParameters(SourceRecordRef,DestinationRecordRef,SynchAction <> SynchActionType::Insert);
+    IF IntegrationRecordSynch.RUN THEN BEGIN
+      IF ConflictFound AND IntegrationRecordSynch.GetWasModified THEN
+        EXIT;
+      OnAfterTransferRecordFields(SourceRecordRef,DestinationRecordRef,
+        AdditionalFieldsModified,SynchAction <> SynchActionType::Insert);
+      AdditionalFieldsModified := AdditionalFieldsModified OR IntegrationRecordSynch.GetWasModified;
+    END ELSE BEGIN
+    ...
+Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<OnFindUncoupledDestinationRecord>
+  Raised in: Codeunit<Integration Rec. Synch. Invoke>.PROCEDURE<FindAndCoupleDestinationRecord>
+    Code lines:
+    OnFindUncoupledDestinationRecord( <=====================
+      IntegrationTableMapping,SourceRecordRef,DestinationRecordRef,DestinationIsDeleted,DestinationFound);
+    IF DestinationFound THEN
+      UpdateIntegrationRecordCoupling(IntegrationTableMapping,SourceRecordRef,DestinationRecordRef,IntegrationTableConnectionType);
+Codeunit<Sales-Calc. Discount>.PROCEDURE<OnAfterCalcSalesDiscount>
+  Raised in: Codeunit<Sales-Calc. Discount>.PROCEDURE<CalculateInvoiceDiscount>
+    Code lines:
+    ...
+        SalesLine2.SetSalesHeader(SalesHeader);
+        SalesLine2.UpdateVATOnLines(0,SalesHeader,SalesLine2,TempVATAmountLine);
+      END;
+    END;
+    
+    OnAfterCalcSalesDiscount(SalesHeader); <=====================
+Codeunit<Sales-Calc. Discount>.PROCEDURE<OnBeforeCalcSalesDiscount>
+  Raised in: Codeunit<Sales-Calc. Discount>.PROCEDURE<CalculateInvoiceDiscount>
+    Code lines:
+    SalesSetup.GET;
+    IF NOT UpdateHeader THEN
+      SalesHeader.FIND; // To ensure we have the latest - otherwise update fails.
+    OnBeforeCalcSalesDiscount(SalesHeader); <=====================
+    
+    WITH SalesLine DO BEGIN
+      LOCKTABLE;
+      SalesHeader.TESTFIELD("Customer Posting Group");
+      CustPostingGr.GET(SalesHeader."Customer Posting Group");
+    
+    ...
+Codeunit<Azure AD Auth Flow>.PROCEDURE<OnAcquireTokenByAuthorizationCode>
+  Raised in: Codeunit<Azure AD Auth Flow>.PROCEDURE<AcquireTokenByAuthorizationCode>
+    Code lines:
+    CheckProvider;
+    IF CanHandle THEN
+      AccessToken := AuthFlow.ALAcquireTokenByAuthorizationCode(AuthorizationCode,ResourceName)
+    ELSE
+      OnAcquireTokenByAuthorizationCode(AuthorizationCode,ResourceName,AccessToken); <=====================
+Codeunit<Azure AD Auth Flow>.PROCEDURE<OnAcquireTokenByAuthorizationCodeWithCredentials>
+  Raised in: Codeunit<Azure AD Auth Flow>.PROCEDURE<AcquireTokenByAuthorizationCodeWithCredentials>
+    Code lines:
+    CheckProvider;
+    IF CanHandle THEN
+      AccessToken := AuthFlow.ALAcquireTokenByAuthorizationCodeWithCredentials(AuthorizationCode,ClientID,ApplicationKey,ResourceName)
+    ELSE
+      OnAcquireTokenByAuthorizationCodeWithCredentials(AuthorizationCode,ClientID,ApplicationKey,ResourceName,AccessToken); <=====================
+Codeunit<Azure AD Auth Flow>.PROCEDURE<OnAcquireTokenFromCache>
+  Raised in: Codeunit<Azure AD Auth Flow>.PROCEDURE<AcquireTokenFromCache>
+    Code lines:
+    CheckProvider;
+    IF CanHandle THEN
+      AccessToken := AuthFlow.ALAcquireTokenFromCache(ResourceName)
+    ELSE
+      OnAcquireTokenFromCache(ResourceName,AccessToken); <=====================
+Codeunit<Azure AD Auth Flow>.PROCEDURE<OnAcquireTokenFromCacheWithCredentials>
+  Raised in: Codeunit<Azure AD Auth Flow>.PROCEDURE<AcquireTokenFromCacheWithCredentials>
+    Code lines:
+    CheckProvider;
+    IF CanHandle THEN
+      AccessToken := AuthFlow.ALAcquireTokenFromCacheWithCredentials(ClientID,AppKey,ResourceName)
+    ELSE
+      OnAcquireTokenFromCacheWithCredentials(ClientID,AppKey,ResourceName,AccessToken); <=====================
+Codeunit<Azure AD Auth Flow>.PROCEDURE<OnCheckProvider>
+  Raised in: Codeunit<Azure AD Auth Flow>.PROCEDURE<CheckProvider>
+    Code lines:
+    IF CanHandle THEN
+      Initialized := NOT ISNULL(AuthFlow)
+    ELSE
+      OnCheckProvider(Initialized); <=====================
+    
+    IF NOT Initialized THEN
+      ERROR(ProviderNotInitializedErr);
+Codeunit<Azure AD Auth Flow>.PROCEDURE<OnCreateExchangeServiceWrapperWithToken>
+  Raised in: Codeunit<Azure AD Auth Flow>.PROCEDURE<CreateExchangeServiceWrapperWithToken>
+    Code lines:
+    IF CanHandle THEN
+      Service := ServiceFactory.CreateServiceWrapperWithToken(Token)
+    ELSE
+      OnCreateExchangeServiceWrapperWithToken(Token,Service); <=====================
+Codeunit<Azure AD Auth Flow>.PROCEDURE<OnGetSaasClientId>
+  Raised in: Codeunit<Azure AD Auth Flow>.PROCEDURE<GetSaasClientId>
+    Code lines:
+    CheckProvider;
+    IF CanHandle THEN
+      ClientID := AuthFlow.ALGetSaasClientId
+    ELSE
+      OnGetSaasClientId(ClientID); <=====================
+Codeunit<Azure AD Auth Flow>.PROCEDURE<OnInitialize>
+  Raised in: Codeunit<Azure AD Auth Flow>.PROCEDURE<Initialize>
+    Code lines:
+    IF CanHandle THEN
+      AuthFlow := AuthFlow.ALAzureAdCodeGrantFlow(SecurityId,Uri.Uri(RedirectUri))
+    ELSE
+      OnInitialize(SecurityId,RedirectUri,AuthFlow); <=====================
+Codeunit<Copy Document Mgt.>.PROCEDURE<OnAfterCopyPurchaseDocument>
+  Raised in: Codeunit<Copy Document Mgt.>.PROCEDURE<CopyPurchDoc>
+    Code lines:
+    ...
+        MESSAGE(Text019);
+      LinesNotCopied <> 0:
+        MESSAGE(Text004);
+    END;
+    
+    OnAfterCopyPurchaseDocument(FromDocType,FromDocNo,ToPurchHeader); <=====================
+Codeunit<Copy Document Mgt.>.PROCEDURE<OnAfterCopySalesDocument>
+  Raised in: Codeunit<Copy Document Mgt.>.PROCEDURE<CopySalesDoc>
+    Code lines:
+    ...
+        MESSAGE(Text019);
+      LinesNotCopied <> 0:
+        MESSAGE(Text004);
+    END;
+    
+    OnAfterCopySalesDocument(FromDocType,FromDocNo,ToSalesHeader); <=====================
+Codeunit<Copy Document Mgt.>.PROCEDURE<OnBeforeCopyPurchaseDocument>
+  Raised in: Codeunit<Copy Document Mgt.>.PROCEDURE<CopyPurchDoc>
+    Code lines:
+    ...
+        IF FromDocNo = '' THEN
+          ERROR(Text000);
+        FIND;
+      END;
+    
+      OnBeforeCopyPurchaseDocument(FromDocType,FromDocNo,ToPurchHeader); <=====================
+    
+      TransferOldExtLines.ClearLineNumbers;
+    
+      IF NOT InitAndCheckPurchaseDocuments(
+    ...
+Codeunit<Copy Document Mgt.>.PROCEDURE<OnBeforeCopySalesDocument>
+  Raised in: Codeunit<Copy Document Mgt.>.PROCEDURE<CopySalesDoc>
+    Code lines:
+    ...
+        IF FromDocNo = '' THEN
+          ERROR(Text000);
+        FIND;
+      END;
+    
+      OnBeforeCopySalesDocument(FromDocType,FromDocNo,ToSalesHeader); <=====================
+    
+      TransferOldExtLines.ClearLineNumbers;
+    
+      IF NOT InitAndCheckSalesDocuments(
+    ...
+Codeunit<Booking Manager>.PROCEDURE<OnGetBookingItems>
+  Raised in: Codeunit<Booking Manager>.PROCEDURE<GetBookingItems>
+    Code lines:
+    OnGetBookingItems(TempBookingItem); <=====================
+Codeunit<Booking Manager>.PROCEDURE<OnGetBookingMailboxes>
+  Raised in: Codeunit<Booking Manager>.PROCEDURE<GetBookingMailboxes>
+    Code lines:
+    OnGetBookingMailboxes(TempBookingMailbox); <=====================
+Codeunit<Booking Manager>.PROCEDURE<OnGetBookingServiceForBooking>
+  Raised in: Codeunit<Booking Manager>.PROCEDURE<GetBookingServiceForBooking>
+    Code lines:
+    OnGetBookingServiceForBooking(TempBookingItem,TempBookingService); <=====================
+Codeunit<Booking Manager>.PROCEDURE<OnSetBookingItemInvoiced>
+  Raised in: Codeunit<Booking Manager>.PROCEDURE<SetBookingItemInvoiced>
+    Code lines:
+    OnSetBookingItemInvoiced(InvoicedBookingItem); <=====================
+Codeunit<Booking Manager>.PROCEDURE<OnSynchronize>
+  Raised in: Codeunit<Booking Manager>.PROCEDURE<Synchronize>
+    Code lines:
+    OnSynchronize(TempBookingItem); <=====================
+Codeunit<Purch.-Calc.Discount>.PROCEDURE<OnAfterCalcPurchaseDiscount>
+  Raised in: Codeunit<Purch.-Calc.Discount>.PROCEDURE<CalculateInvoiceDiscount>
+    Code lines:
+    ...
+    
+        PurchLine2.UpdateVATOnLines(0,PurchHeader,PurchLine2,TempVATAmountLine);
+      END;
+    END;
+    
+    OnAfterCalcPurchaseDiscount(PurchHeader); <=====================
+Codeunit<Purch.-Calc.Discount>.PROCEDURE<OnBeforeCalcPurchaseDiscount>
+  Raised in: Codeunit<Purch.-Calc.Discount>.PROCEDURE<CalculateInvoiceDiscount>
+    Code lines:
+    PurchSetup.GET;
+    
+    OnBeforeCalcPurchaseDiscount(PurchHeader); <=====================
+    
+    WITH PurchLine DO BEGIN
+      LOCKTABLE;
+      PurchHeader.TESTFIELD("Vendor Posting Group");
+      VendPostingGr.GET(PurchHeader."Vendor Posting Group");
+    
+      PurchLine2.RESET;
+    ...
+Codeunit<Sales-Post>.PROCEDURE<OnAfterPostSalesDoc>
+  Raised in: Codeunit<Sales-Post>.<OnRun>
+    Code lines:
+    ...
+      COMMIT;
+      UpdateAnalysisView.UpdateAll(0,TRUE);
+      UpdateItemAnalysisView.UpdateAll(0,TRUE);
+    END;
+    
+    OnAfterPostSalesDoc( <=====================
+      Rec,GenJnlPostLine,SalesShptHeader."No.",ReturnRcptHeader."No.",SalesInvHeader."No.",SalesCrMemoHeader."No.");
+Codeunit<Sales-Post>.PROCEDURE<OnBeforePostCommitSalesDoc>
+  Raised in: Codeunit<Sales-Post>.PROCEDURE<CheckAndUpdate>
+    Code lines:
+    ...
+    
+      ModifyHeader := UpdatePostingNos(SalesHeader);
+    
+      DropShipOrder := UpdateAssosOrderPostingNos(SalesHeader);
+    
+      OnBeforePostCommitSalesDoc(SalesHeader,GenJnlPostLine,PreviewMode,ModifyHeader); <=====================
+      IF NOT PreviewMode AND ModifyHeader THEN BEGIN
+        MODIFY;
+        COMMIT;
+      END;
+    ...
+Codeunit<Sales-Post>.PROCEDURE<OnBeforePostSalesDoc>
+  Raised in: Codeunit<Sales-Post>.<OnRun>
+    Code lines:
+    OnBeforePostSalesDoc(Rec); <=====================
+    
+    IF PostingDateExists AND (ReplacePostingDate OR ("Posting Date" = 0D)) THEN BEGIN
+      "Posting Date" := PostingDate;
+      VALIDATE("Currency Code");
+    END;
+    
+    IF PostingDateExists AND (ReplaceDocumentDate OR ("Document Date" = 0D)) THEN
+      VALIDATE("Document Date",PostingDate);
+    
+    ...
+Codeunit<Sales-Post>.PROCEDURE<OnSendSalesDocument>
+  Raised in: Codeunit<Sales-Post>.PROCEDURE<SendPostedDocumentRecord>
+    Code lines:
+    WITH SalesHeader DO
+      CASE "Document Type" OF
+        "Document Type"::Order:
+          BEGIN
+            OnSendSalesDocument(Invoice AND Ship); <=====================
+            IF Invoice THEN BEGIN
+              SalesInvHeader.GET("Last Posting No.");
+              SalesInvHeader.SETRECFILTER;
+              SalesInvHeader.SendProfile(DocumentSendingProfile);
+            END;
+    ...
+Codeunit<Purch.-Post>.PROCEDURE<OnAfterPostPurchaseDoc>
+  Raised in: Codeunit<Purch.-Post>.<OnRun>
+    Code lines:
+    ...
+      COMMIT;
+      UpdateAnalysisView.UpdateAll(0,TRUE);
+      UpdateItemAnalysisView.UpdateAll(0,TRUE);
+    END;
+    
+    OnAfterPostPurchaseDoc( <=====================
+      Rec,GenJnlPostLine,PurchRcptHeader."No.",ReturnShptHeader."No.",PurchInvHeader."No.",PurchCrMemoHeader."No.");
+  Raised in: Table<Purchase Header>.PROCEDURE<TriggerOnAfterPostPurchaseDoc>
+    Code lines:
+    PurchPost.OnAfterPostPurchaseDoc(Rec,GenJnlPostLine,PurchRcpHdrNo,RetShptHdrNo,PurchInvHdrNo,PurchCrMemoHdrNo); <=====================
+Codeunit<Purch.-Post>.PROCEDURE<OnBeforePostCommitPurchaseDoc>
+  Raised in: Codeunit<Purch.-Post>.PROCEDURE<CheckAndUpdate>
+    Code lines:
+    ...
+    
+      ModifyHeader := UpdatePostingNos(PurchHeader);
+    
+      DropShipOrder := UpdateAssosOrderPostingNos(PurchHeader);
+    
+      OnBeforePostCommitPurchaseDoc(PurchHeader,GenJnlPostLine,PreviewMode,ModifyHeader); <=====================
+      IF NOT PreviewMode AND ModifyHeader THEN BEGIN
+        MODIFY;
+        COMMIT;
+      END;
+    ...
+Codeunit<Purch.-Post>.PROCEDURE<OnBeforePostPurchaseDoc>
+  Raised in: Codeunit<Purch.-Post>.<OnRun>
+    Code lines:
+    OnBeforePostPurchaseDoc(Rec); <=====================
+    
+    ValidatePostingAndDocumentDate(Rec);
+    
+    IF PreviewMode THEN BEGIN
+      CLEARALL;
+      PreviewMode := TRUE;
+    END ELSE
+      CLEARALL;
+    
+    ...
+Codeunit<Azure AD User Management>.PROCEDURE<OnInitialize>
+  Raised in: Codeunit<Azure AD User Management>.PROCEDURE<Initialize>
+    Code lines:
+    ...
+    IsInitialized := TRUE;
+    
+    IF CanHandle THEN
+      Graph := Graph.GraphQuery
+    ELSE
+      OnInitialize(Graph); <=====================
+    
+    EXIT(TRUE);
+Page<My Notifications>.PROCEDURE<OnInitializingNotificationWithDefaultState>
+  Raised in: Page<My Notifications>.<OnOpenPage>
+    Code lines:
+    OnInitializingNotificationWithDefaultState; <=====================
+  Raised in: Page<My Notifications>.PROCEDURE<InitializeNotificationsWithDefaultState>
+    Code lines:
+    OnInitializingNotificationWithDefaultState; <=====================
+Page<Payroll Import Transactions>.PROCEDURE<OnCreateSampleFile>
+  Raised in: Page<Payroll Import Transactions>.Action<ActionCreateSampleFile>.<OnAction>
+    Code lines:
+    OnCreateSampleFile(TempServiceConnection); <=====================
+Page<Payroll Import Transactions>.PROCEDURE<OnImportPayrollTransactions>
+  Raised in: Page<Payroll Import Transactions>.Action<ActionNext>.<OnAction>
+    Code lines:
+    CASE Step OF
+      0:
+        BEGIN
+          OnImportPayrollTransactions(TempServiceConnection,TempImportGLTransaction); <=====================
+          IF TempImportGLTransaction.FINDSET THEN
+            REPEAT
+              Rec := TempImportGLTransaction;
+              INSERT;
+            UNTIL TempImportGLTransaction.NEXT = 0;
+          IF FINDFIRST THEN;
+    ...
+Page<Incoming Document>.PROCEDURE<OnCloseIncomingDocumentFromAction>
+  Raised in: Page<Incoming Document>.Action<OCRSetup>.<OnAction>
+    Code lines:
+    PAGE.RUNMODAL(PAGE::"OCR Service Setup");
+    CurrPage.UPDATE;
+    IF CURRENTCLIENTTYPE = CLIENTTYPE::Web THEN
+      IF OCRIsEnabled THEN BEGIN
+        OnCloseIncomingDocumentFromAction(Rec); <=====================
+        CurrPage.CLOSE;
+      END;
+Page<Incoming Documents>.PROCEDURE<OnCloseIncomingDocumentsFromActions>
+  Raised in: Page<Incoming Documents>.Action<OCRSetup>.<OnAction>
+    Code lines:
+    PAGE.RUNMODAL(PAGE::"OCR Service Setup");
+    CurrPage.UPDATE;
+    IF CURRENTCLIENTTYPE = CLIENTTYPE::Web THEN
+      IF OCRIsEnabled THEN BEGIN
+        OnCloseIncomingDocumentsFromActions(Rec); <=====================
+        CurrPage.CLOSE;
+      END;
+Page<Navigate>.PROCEDURE<OnAfterNavigateFindRecords>
+  Raised in: Page<Navigate>.PROCEDURE<FindRecords>
+    Code lines:
+    ...
+      CostEntry.SETFILTER("Document No.",DocNoFilter);
+      CostEntry.SETFILTER("Posting Date",PostingDateFilter);
+      InsertIntoDocEntry(
+        DATABASE::"Cost Entry",0,CostEntry.TABLECAPTION,CostEntry.COUNT);
+    END;
+    OnAfterNavigateFindRecords(Rec,DocNoFilter,PostingDateFilter); <=====================
+    DocExists := FINDFIRST;
+    
+    SetSource(0D,'','',0,'');
+    IF DocExists THEN BEGIN
+    ...
+Page<Navigate>.PROCEDURE<OnAfterNavigateShowRecords>
+  Raised in: Page<Navigate>.PROCEDURE<ShowRecords>
+    Code lines:
+    ...
+          PAGE.RUN(0,WarrantyLedgerEntry);
+        DATABASE::"Cost Entry":
+          PAGE.RUN(0,CostEntry);
+      END;
+    
+    OnAfterNavigateShowRecords("Table ID",DocNoFilter,PostingDateFilter,ItemTrackingSearch); <=====================
+Page<Sales Quote>.PROCEDURE<OnBeforeStatisticsAction>
+  Raised in: Page<Sales Quote>.Action<Statistics>.<OnAction>
+    Code lines:
+    OnBeforeStatisticsAction(Rec,Handled); <=====================
+    IF NOT Handled THEN BEGIN
+      CalcInvDiscForHeader;
+      COMMIT;
+      PAGE.RUNMODAL(PAGE::"Sales Statistics",Rec);
+      SalesCalcDiscByType.ResetRecalculateInvoiceDisc(Rec);
+    END
+Page<Sales Order>.PROCEDURE<OnBeforeStatisticsAction>
+  Raised in: Page<Sales Order>.Action<Statistics>.<OnAction>
+    Code lines:
+    OnBeforeStatisticsAction(Rec,Handled); <=====================
+    IF NOT Handled THEN BEGIN
+      OpenSalesOrderStatistics;
+      SalesCalcDiscountByType.ResetRecalculateInvoiceDisc(Rec);
+    END
+Page<Sales Invoice>.PROCEDURE<OnBeforeStatisticsAction>
+  Raised in: Page<Sales Invoice>.Action<Statistics>.<OnAction>
+    Code lines:
+    OnBeforeStatisticsAction(Rec,Handled); <=====================
+    IF NOT Handled THEN BEGIN
+      CalcInvDiscForHeader;
+      COMMIT;
+      PAGE.RUNMODAL(PAGE::"Sales Statistics",Rec);
+      SalesCalcDiscountByType.ResetRecalculateInvoiceDisc(Rec);
+    END
+Page<Sales Credit Memo>.PROCEDURE<OnBeforeStatisticsAction>
+  Raised in: Page<Sales Credit Memo>.Action<Statistics>.<OnAction>
+    Code lines:
+    OnBeforeStatisticsAction(Rec,Handled); <=====================
+    IF NOT Handled THEN BEGIN
+      CalcInvDiscForHeader;
+      COMMIT;
+      PAGE.RUNMODAL(PAGE::"Sales Statistics",Rec);
+      SalesCalcDiscByType.ResetRecalculateInvoiceDisc(Rec);
+    END
+Page<Blanket Sales Order>.PROCEDURE<OnBeforeStatisticsAction>
+  Raised in: Page<Blanket Sales Order>.Action<Statistics>.<OnAction>
+    Code lines:
+    OnBeforeStatisticsAction(Rec,Handled); <=====================
+    IF NOT Handled THEN BEGIN
+      OpenSalesOrderStatistics;
+      SalesCalcDiscByType.ResetRecalculateInvoiceDisc(Rec);
+    END
+Page<Sales Return Order>.PROCEDURE<OnBeforeStatisticsAction>
+  Raised in: Page<Sales Return Order>.Action<Statistics>.<OnAction>
+    Code lines:
+    OnBeforeStatisticsAction(Rec,Handled); <=====================
+    IF NOT Handled THEN BEGIN
+      OpenSalesOrderStatistics;
+      SalesCalcDiscByType.ResetRecalculateInvoiceDisc(Rec);
+    END
+Page<My Settings>.PROCEDURE<OnCompanyChange>
+  Raised in: Page<My Settings>.Control<Company>.<OnAssistEdit>
+    Code lines:
+    ...
+    
+    AllowedCompanies.LOOKUPMODE(TRUE);
+    
+    IF AllowedCompanies.RUNMODAL = ACTION::LookupOK THEN BEGIN
+      AllowedCompanies.GETRECORD(SelectedCompany);
+      OnCompanyChange(SelectedCompany.Name); <=====================
+      VarCompany := SelectedCompany.Name;
+    END;
+Report<Send Overdue Appr. Notif.>.PROCEDURE<OnSendOverdueNotifications>
+  Raised in: Report<Send Overdue Appr. Notif.>.<OnPreReport>
+    Code lines:
+    IF NOT ApprovalsMgmt.IsOverdueNotificationsWorkflowEnabled THEN
+      ERROR(NoWorkflowEnabledErr);
+    
+    OnSendOverdueNotifications; <=====================
+Table<Payment Service Setup>.PROCEDURE<OnCreatePaymentService>
+  Raised in: Table<Payment Service Setup>.PROCEDURE<NewPaymentService>
+    Code lines:
+    ...
+      0:
+        EXIT(FALSE);
+      1:
+        BEGIN
+          TempPaymentServiceSetupProviders.FINDFIRST;
+          OnCreatePaymentService(TempPaymentServiceSetupProviders); <=====================
+          EXIT(TRUE);
+        END;
+      ELSE BEGIN
+        IF PAGE.RUNMODAL(PAGE::"Select Payment Service Type",TempPaymentServiceSetup) = ACTION::LookupOK THEN BEGIN
+    ...
+  Raised in: Table<Payment Service Setup>.PROCEDURE<NewPaymentService>
+    Code lines:
+    ...
+      0:
+        EXIT(FALSE);
+      1:
+        BEGIN
+          TempPaymentServiceSetupProviders.FINDFIRST;
+          OnCreatePaymentService(TempPaymentServiceSetupProviders); <=====================
+          EXIT(TRUE);
+        END;
+      ELSE BEGIN
+        IF PAGE.RUNMODAL(PAGE::"Select Payment Service Type",TempPaymentServiceSetup) = ACTION::LookupOK THEN BEGIN
+    ...
+Table<Payment Service Setup>.PROCEDURE<OnRegisterPaymentServiceProviders>
+  Raised in: Table<Payment Service Setup>.PROCEDURE<AskUserToSetupNewPaymentService>
+    Code lines:
+    IF NOT GUIALLOWED THEN
+      EXIT(FALSE);
+    
+    OnRegisterPaymentServiceProviders(TempPaymentServiceSetupProviders); <=====================
+    IF NOT TempPaymentServiceSetupProviders.FINDFIRST THEN
+      EXIT(FALSE);
+    
+    // Check if there are payment services that are not enabled
+    OnRegisterPaymentServices(TempNotEnabledPaymentServiceSetupProviders);
+    DefinedPaymentServiceExist := TempNotEnabledPaymentServiceSetupProviders.FINDFIRST;
+    ...
+  Raised in: Table<Payment Service Setup>.PROCEDURE<IsPaymentServiceVisible>
+    Code lines:
+    OnRegisterPaymentServiceProviders(TempPaymentServiceSetup); <=====================
+    EXIT(NOT TempPaymentServiceSetup.ISEMPTY);
+  Raised in: Table<Payment Service Setup>.PROCEDURE<NewPaymentService>
+    Code lines:
+    OnRegisterPaymentServiceProviders(TempPaymentServiceSetupProviders); <=====================
+    CASE TempPaymentServiceSetupProviders.COUNT OF
+      0:
+        EXIT(FALSE);
+      1:
+        BEGIN
+          TempPaymentServiceSetupProviders.FINDFIRST;
+          OnCreatePaymentService(TempPaymentServiceSetupProviders);
+          EXIT(TRUE);
+        END;
+    ...
+  Raised in: Page<Select Payment Service Type>.<OnOpenPage>
+    Code lines:
+    OnRegisterPaymentServiceProviders(Rec); <=====================
+  Raised in: Page<Payment Services>.<OnOpenPage>
+    Code lines:
+    OnRegisterPaymentServices(Rec);
+    OnRegisterPaymentServiceProviders(TempPaymentServiceSetupProviders); <=====================
+    IF TempPaymentServiceSetupProviders.ISEMPTY THEN
+      ERROR(NoServicesInstalledErr);
+Table<Payment Service Setup>.PROCEDURE<OnRegisterPaymentServices>
+  Raised in: Table<Payment Service Setup>.PROCEDURE<GetDefaultPaymentServices>
+    Code lines:
+    OnRegisterPaymentServices(TempPaymentServiceSetup); <=====================
+    TempPaymentServiceSetup.SETRANGE("Always Include on Documents",TRUE);
+    TempPaymentServiceSetup.SETRANGE(Enabled,TRUE);
+    
+    IF NOT TempPaymentServiceSetup.FINDFIRST THEN
+      EXIT(FALSE);
+    
+    TransferToRecordSetBuffer(TempPaymentServiceSetup,TempRecordSetBuffer);
+    RecordSetManagement.GetSet(TempRecordSetBuffer,SetID);
+    IF SetID = 0 THEN
+    ...
+  Raised in: Table<Payment Service Setup>.PROCEDURE<GetEnabledPaymentServices>
+    Code lines:
+    TempPaymentServiceSetup.RESET;
+    TempPaymentServiceSetup.DELETEALL;
+    OnRegisterPaymentServices(TempPaymentServiceSetup); <=====================
+    TempPaymentServiceSetup.SETRANGE(Enabled,TRUE);
+    EXIT(TempPaymentServiceSetup.FINDSET);
+  Raised in: Table<Payment Service Setup>.PROCEDURE<GetSelectedPaymentsText>
+    Code lines:
+    SelectedPaymentServices := NoPaymentMethodsSelectedTxt;
+    
+    IF SetID = 0 THEN
+      EXIT;
+    
+    OnRegisterPaymentServices(TempPaymentServiceSetup); <=====================
+    LoadSet(TempPaymentServiceSetup,SetID);
+    
+    TempPaymentServiceSetup.SETRANGE(Available,TRUE);
+    IF NOT TempPaymentServiceSetup.FINDSET THEN
+    ...
+  Raised in: Table<Payment Service Setup>.PROCEDURE<AskUserToSetupNewPaymentService>
+    Code lines:
+    ...
+    OnRegisterPaymentServiceProviders(TempPaymentServiceSetupProviders);
+    IF NOT TempPaymentServiceSetupProviders.FINDFIRST THEN
+      EXIT(FALSE);
+    
+    // Check if there are payment services that are not enabled
+    OnRegisterPaymentServices(TempNotEnabledPaymentServiceSetupProviders); <=====================
+    DefinedPaymentServiceExist := TempNotEnabledPaymentServiceSetupProviders.FINDFIRST;
+    
+    IF DefinedPaymentServiceExist THEN BEGIN
+      SelectedOption := STRMENU(CreateOrUpdateOptionQst,1,SetupExistingServicesOrCreateNewQst);
+    ...
+  Raised in: Page<Payment Services>.<OnOpenPage>
+    Code lines:
+    OnRegisterPaymentServices(Rec); <=====================
+    OnRegisterPaymentServiceProviders(TempPaymentServiceSetupProviders);
+    IF TempPaymentServiceSetupProviders.ISEMPTY THEN
+      ERROR(NoServicesInstalledErr);
+  Raised in: Page<Payment Services>.Action<NewAction>.<OnAction>
+    Code lines:
+    IF NewPaymentService THEN BEGIN
+      RESET;
+      DELETEALL;
+      OnRegisterPaymentServices(Rec); <=====================
+    END;
+  Raised in: Page<Payment Services>.Action<Setup>.<OnAction>
+    Code lines:
+    OpenSetupCard;
+    RESET;
+    DELETEALL;
+    OnRegisterPaymentServices(Rec); <=====================
+Table<Transformation Rule>.PROCEDURE<OnCreateTransformationRules>
+  Raised in: Table<Transformation Rule>.PROCEDURE<CreateDefaultTransformations>
+    Code lines:
+    ...
+    InsertRec(FOURTH_TO_SIXTH_CHARTxt,FourthToSixthCharactersDescTxt,"Transformation Type"::Substring,4,3,'','');
+    InsertRec(YYYYMMDDDateTxt,YYYYMMDDDateDescTxt,"Transformation Type"::"Date and Time Formatting",0,0,'yyyyMMdd','');
+    InsertRec(ALPHANUMERIC_ONLYTxt,AlphaNumericDescTxt,"Transformation Type"::"Remove Non-Alphanumeric Characters",0,0,'','');
+    InsertRec(DKNUMBERFORMATTxt,DKNUMBERFORMATDescTxt,"Transformation Type"::"Decimal Formatting",0,0,'','da-DK');
+    InsertRec(USDATEFORMATTxt,USDATEFORMATDescTxt,"Transformation Type"::"Date and Time Formatting",0,0,'','en-US');
+    OnCreateTransformationRules; <=====================
+    InsertFindAndReplaceRule(
+      DeleteNOTPROVIDEDTxt,DeleteNOTPROVIDEDDescriptionTxt,"Transformation Type"::"Regular Expression - Replace",'NOTPROVIDED','');
+  Raised in: Page<Transformation Rules>.<OnOpenPage>
+    Code lines:
+    IF ISEMPTY THEN
+      CreateDefaultTransformations;
+    OnCreateTransformationRules; <=====================
+Table<Transformation Rule>.PROCEDURE<OnTransformation>
+  Raised in: Table<Transformation Rule>.PROCEDURE<TransformText>
+    Code lines:
+    ...
+      "Transformation Type"::"Date and Time Formatting":
+        NewValue := DateTimeFormatting(OldValue);
+      "Transformation Type"::"Decimal Formatting":
+        NewValue := DecimalFormatting(OldValue);
+      "Transformation Type"::Custom:
+        OnTransformation(Code,OldValue,NewValue); <=====================
+    END;
+    
+    IF "Next Transformation Rule" <> '' THEN
+      IF TransformationRule.GET("Next Transformation Rule") THEN
+    ...
+Table<Incoming Document>.PROCEDURE<OnAfterCreateGenJnlLineFromIncomingDocFail>
+  Raised in: Table<Incoming Document>.PROCEDURE<CreateGenJnlLine>
+    Code lines:
+    ...
+    GenJnlLine.Description := COPYSTR(Description,1,MAXSTRLEN(GenJnlLine.Description));
+    
+    IF GenJnlLine.INSERT(TRUE) THEN
+      OnAfterCreateGenJnlLineFromIncomingDocSuccess(Rec)
+    ELSE
+      OnAfterCreateGenJnlLineFromIncomingDocFail(Rec); <=====================
+    
+    IF GenJnlLine.HASLINKS THEN
+      GenJnlLine.DELETELINKS;
+    IF GetURL <> '' THEN
+    ...
+  Raised in: Table<Incoming Document>.PROCEDURE<CreateGeneralJournalLineWithDataExchange>
+    Code lines:
+    ...
+    
+    ErrorMessage.SetContext(RECORDID);
+    IF NOT ErrorMessage.HasErrors(FALSE) THEN
+      OnAfterCreateGenJnlLineFromIncomingDocSuccess(Rec)
+    ELSE
+      OnAfterCreateGenJnlLineFromIncomingDocFail(Rec); <=====================
+Table<Incoming Document>.PROCEDURE<OnAfterCreateGenJnlLineFromIncomingDocSuccess>
+  Raised in: Table<Incoming Document>.PROCEDURE<CreateGenJnlLine>
+    Code lines:
+    ...
+    GenJnlLine.SetUpNewLine(LastGenJnlLine,0,TRUE);
+    GenJnlLine."Incoming Document Entry No." := "Entry No.";
+    GenJnlLine.Description := COPYSTR(Description,1,MAXSTRLEN(GenJnlLine.Description));
+    
+    IF GenJnlLine.INSERT(TRUE) THEN
+      OnAfterCreateGenJnlLineFromIncomingDocSuccess(Rec) <=====================
+    ELSE
+      OnAfterCreateGenJnlLineFromIncomingDocFail(Rec);
+    
+    IF GenJnlLine.HASLINKS THEN
+    ...
+  Raised in: Table<Incoming Document>.PROCEDURE<CreateGeneralJournalLineWithDataExchange>
+    Code lines:
+    ...
+    
+    CreateWithDataExchange("Document Type"::Journal);
+    
+    ErrorMessage.SetContext(RECORDID);
+    IF NOT ErrorMessage.HasErrors(FALSE) THEN
+      OnAfterCreateGenJnlLineFromIncomingDocSuccess(Rec) <=====================
+    ELSE
+      OnAfterCreateGenJnlLineFromIncomingDocFail(Rec);
+Table<Incoming Document>.PROCEDURE<OnCheckIncomingDocCreateDocRestrictions>
+  Raised in: Table<Incoming Document>.PROCEDURE<CreateWithDataExchange>
+    Code lines:
+    FIND;
+    
+    IF ApprovalsMgmt.IsIncomingDocApprovalsWorkflowEnabled(Rec) AND (Status = Status::New) THEN
+      ERROR(DocWhenApprovalIsCompleteErr);
+    
+    OnCheckIncomingDocCreateDocRestrictions; <=====================
+    
+    IF "Data Exchange Type" = '' THEN
+      ERROR(DataExchangeTypeEmptyErr);
+    
+    ...
+Table<Incoming Document>.PROCEDURE<OnCheckIncomingDocReleaseRestrictions>
+  Raised in: Codeunit<Release Incoming Document>.<OnRun>
+    Code lines:
+    IF Status = Status::Released THEN
+      EXIT;
+    IF Status IN [Status::Created,Status::Posted] THEN
+      ERROR(STRSUBSTNO(CanReleasedIfStatusErr,Status::"Pending Approval",Status::New,Status::Failed));
+    
+    OnCheckIncomingDocReleaseRestrictions; <=====================
+    
+    TESTFIELD(Posted,FALSE);
+    
+    IF NOT IsADocumentAttached THEN
+    ...
+Table<Incoming Document>.PROCEDURE<OnCheckIncomingDocSetForOCRRestrictions>
+  Raised in: Codeunit<Send Incoming Document to OCR>.PROCEDURE<VerifySendToOCR>
+    Code lines:
+    ...
+      IF "OCR Status" IN ["OCR Status"::Sent,"OCR Status"::Success,"OCR Status"::"Awaiting Verification"] THEN BEGIN
+        ShowMessage(STRSUBSTNO(ErrorMessage,FORMAT("OCR Status")));
+        EXIT(FALSE);
+      END;
+    
+      OnCheckIncomingDocSetForOCRRestrictions; <=====================
+    
+      IF ApprovalsMgmt.IsIncomingDocApprovalsWorkflowEnabled(IncomingDocument) AND (Status = Status::New) THEN
+        ERROR(OCRWhenApprovalIsCompleteErr);
+    
+    ...
+Table<Incoming Document Attachment>.PROCEDURE<OnAttachBinaryFile>
+  Raised in: Codeunit<Import Attachment - Inc. Doc.>.PROCEDURE<ImportAttachment>
+    Code lines:
+    ...
+      END;
+    
+      INSERT(TRUE);
+    
+      IF Type IN [Type::Image,Type::PDF] THEN
+        OnAttachBinaryFile; <=====================
+    END;
+    EXIT(TRUE);
+Table<Incoming Document Attachment>.PROCEDURE<OnGetBinaryContent>
+  Raised in: Table<Incoming Document Attachment>.PROCEDURE<Export>
+    Code lines:
+    ...
+      EXIT;
+    
+    IF DefaultFileName = '' THEN
+      DefaultFileName := Name + '.' + "File Extension";
+    
+    OnGetBinaryContent(TempBlob); <=====================
+    IF NOT TempBlob.Blob.HASVALUE THEN
+      TempBlob.Blob := Content;
+    EXIT(FileMgt.BLOBExport(TempBlob,DefaultFileName,ShowFileDialog));
+  Raised in: Table<Incoming Document Attachment>.PROCEDURE<SendToOCR>
+    Code lines:
+    CALCFIELDS(Content);
+    TempBlob.INIT;
+    TempBlob."Primary Key" := "Incoming Document Entry No.";
+    OnGetBinaryContent(TempBlob); <=====================
+    IF NOT TempBlob.Blob.HASVALUE THEN
+      TempBlob.Blob := Content;
+    
+    IF "External Document Reference" = '' THEN
+      "External Document Reference" := LOWERCASE(DELCHR(FORMAT(CREATEGUID),'=','{}-'));
+    MODIFY;
+    ...
+  Raised in: Table<Incoming Document Attachment>.PROCEDURE<UpdateIncomingDocumentHeaderFields>
+    Code lines:
+    IF Type <> Type::XML THEN
+      EXIT;
+    TempBlob.INIT;
+    OnGetBinaryContent(TempBlob); <=====================
+    IF NOT TempBlob.Blob.HASVALUE THEN
+      TempBlob.Blob := Content;
+    TempBlob.Blob.CREATEINSTREAM(InStream);
+    IF NOT XMLDOMManagement.LoadXMLNodeFromInStream(InStream,XMLRootNode) THEN
+      EXIT;
+    IF NOT IncomingDocument.GET("Incoming Document Entry No.") THEN
+    ...
+Table<Service Connection>.PROCEDURE<OnRegisterServiceConnection>
+  Raised in: Page<Service Connections>.PROCEDURE<ReloadServiceConnections>
+    Code lines:
+    DELETEALL;
+    OnRegisterServiceConnection(Rec); <=====================
+  Raised in: Page<Service Connections Part>.<OnOpenPage>
+    Code lines:
+    OnRegisterServiceConnection(Rec); <=====================
+  Raised in: Page<Service Connections Part>.PROCEDURE<CallSetup>
+    Code lines:
+    ...
+      EXIT;
+    RecordRef.GET("Record ID");
+    RecordRefVariant := RecordRef;
+    PAGE.RUNMODAL("Page ID",RecordRefVariant);
+    DELETE;
+    OnRegisterServiceConnection(Rec); <=====================
+    IF GET(xRec."No.") THEN;
+    CurrPage.UPDATE(FALSE);
+Table<My Notifications>.PROCEDURE<OnStateChanged>
+  Raised in: Table<My Notifications>.Field<Enabled>.<OnValidate>
+    Code lines:
+    IF Enabled <> xRec.Enabled THEN
+      OnStateChanged("Notification Id",Enabled); <=====================
+Table<G/L Entry>.PROCEDURE<OnAfterCopyGLEntryFromGenJnlLine>
+  Raised in: Table<G/L Entry>.PROCEDURE<CopyFromGenJnlLine>
+    Code lines:
+    ...
+    "User ID" := USERID;
+    "No. Series" := GenJnlLine."Posting No. Series";
+    "IC Partner Code" := GenJnlLine."IC Partner Code";
+    "Journal Template Name" := GenJnlLine."Journal Template Name";
+    
+    OnAfterCopyGLEntryFromGenJnlLine(Rec,GenJnlLine); <=====================
+Table<Data Migrator Registration>.PROCEDURE<OnApplySelectedData>
+  Raised in: Page<Data Migration Wizard>.Action<ActionNext>.<OnAction>
+    Code lines:
+    ...
+            ERROR('');
+        END;
+      Step::Apply:
+        BEGIN
+          CurrPage.DataMigrationEntities.PAGE.CopyFromSourceTable(TempDataMigrationEntity);
+          OnApplySelectedData(TempDataMigrationEntity,Handled); <=====================
+          IF NOT Handled THEN
+            ERROR('');
+        END;
+      Step::AccountSetup1:
+    ...
+Table<Data Migrator Registration>.PROCEDURE<OnCustomerVendorPostingSetup>
+  Raised in: Page<Data Migration Wizard>.Action<ActionNext>.<OnAction>
+    Code lines:
+    ...
+        BEGIN
+          ListOfAccounts[1] := ReceivablesAccount;
+          ListOfAccounts[2] := ServiceChargeAccount;
+          ListOfAccounts[3] := PayablesAccount;
+          ListOfAccounts[4] := PurchServiceChargeAccount;
+          OnCustomerVendorPostingSetup(ListOfAccounts); <=====================
+        END;
+    END;
+    NextStep(FALSE);
+Table<Data Migrator Registration>.PROCEDURE<OnDataImport>
+  Raised in: Page<Data Migration Wizard>.Action<ActionNext>.<OnAction>
+    Code lines:
+    ...
+            ERROR('');
+        END;
+      Step::Import:
+        BEGIN
+          OnValidateSettings;
+          OnDataImport(Handled); <=====================
+          IF NOT Handled THEN
+            ERROR('');
+          OnSelectDataToApply(TempDataMigrationEntity,Handled);
+          CurrPage.DataMigrationEntities.PAGE.CopyToSourceTable(TempDataMigrationEntity);
+    ...
+Table<Data Migrator Registration>.PROCEDURE<OnDownloadTemplate>
+  Raised in: Page<Data Migration Wizard>.Action<ActionDownloadTemplate>.<OnAction>
+    Code lines:
+    OnDownloadTemplate(Handled); <=====================
+    IF NOT Handled THEN
+      ERROR('');
+Table<Data Migrator Registration>.PROCEDURE<OnGetInstructions>
+  Raised in: Page<Data Migration Wizard>.Action<ActionNext>.<OnAction>
+    Code lines:
+    CASE Step OF
+      Step::ChooseSource:
+        BEGIN
+          OnGetInstructions(Instructions,Handled); <=====================
+          IF NOT Handled THEN
+            ERROR('');
+        END;
+      Step::Import:
+        BEGIN
+          OnValidateSettings;
+    ...
+Table<Data Migrator Registration>.PROCEDURE<OnGLPostingSetup>
+  Raised in: Page<Data Migration Wizard>.Action<ActionNext>.<OnAction>
+    Code lines:
+    ...
+          ListOfAccounts[7] := PurchLineDiscAccount;
+          ListOfAccounts[8] := PurchInvDiscAccount;
+          ListOfAccounts[9] := COGSAccount;
+          ListOfAccounts[10] := InventoryAdjmtAccount;
+          ListOfAccounts[11] := InventoryAccount;
+          OnGLPostingSetup(ListOfAccounts); <=====================
+        END;
+      Step::AccountSetup2:
+        BEGIN
+          ListOfAccounts[1] := ReceivablesAccount;
+    ...
+Table<Data Migrator Registration>.PROCEDURE<OnHasAdvancedApply>
+  Raised in: Page<Data Migration Wizard>.PROCEDURE<ShowApplyStep>
+    Code lines:
+    ApplyVisible := TRUE;
+    NextEnabled := TotalNoOfMigrationRecords > 0;
+    OnHasAdvancedApply(OpenAdvancedApplyVisible); <=====================
+Table<Data Migrator Registration>.PROCEDURE<OnHasErrors>
+  Raised in: Page<Data Migration Wizard>.PROCEDURE<ShowDoneStep>
+    Code lines:
+    ...
+        NextEnabled := TRUE;
+        FinishEnabled := FALSE;
+        NextStep(FALSE);
+      END;
+    END;
+    OnHasErrors(ShowErrorsVisible); <=====================
+  Raised in: Page<Data Migration Wizard>.PROCEDURE<ShowPostingGroupDoneStep>
+    Code lines:
+    DoneVisible := TRUE;
+    BackEnabled := FALSE;
+    NextEnabled := FALSE;
+    OnHasErrors(ShowErrorsVisible); <=====================
+    FinishEnabled := TRUE;
+Table<Data Migrator Registration>.PROCEDURE<OnHasSettings>
+  Raised in: Page<Data Migration Wizard>.<Control>.<OnLookup>
+    Code lines:
+    IF PAGE.RUNMODAL(PAGE::"Data Migrators",Rec) = ACTION::LookupOK THEN BEGIN
+      Text := Description;
+      CLEAR(DataMigrationSettingsVisible);
+      OnHasSettings(DataMigrationSettingsVisible); <=====================
+      EXIT;
+    END;
+  Raised in: Page<Data Migration Wizard>.PROCEDURE<ShowImportStep>
+    Code lines:
+    ImportVisible := TRUE;
+    OnHasTemplate(DownloadTemplateVisible);
+    OnHasSettings(DataMigrationSettingsVisible); <=====================
+Table<Data Migrator Registration>.PROCEDURE<OnHasTemplate>
+  Raised in: Page<Data Migration Wizard>.PROCEDURE<ShowImportStep>
+    Code lines:
+    ImportVisible := TRUE;
+    OnHasTemplate(DownloadTemplateVisible); <=====================
+    OnHasSettings(DataMigrationSettingsVisible);
+Table<Data Migrator Registration>.PROCEDURE<OnOpenAdvancedApply>
+  Raised in: Page<Data Migration Wizard>.Action<ActionOpenAdvancedApply>.<OnAction>
+    Code lines:
+    OnOpenAdvancedApply(TempDataMigrationEntity,Handled); <=====================
+    CurrPage.DataMigrationEntities.PAGE.CopyToSourceTable(TempDataMigrationEntity);
+    IF NOT Handled THEN
+      ERROR('');
+Table<Data Migrator Registration>.PROCEDURE<OnOpenSettings>
+  Raised in: Page<Data Migration Wizard>.Action<ActionDataMigrationSettings>.<OnAction>
+    Code lines:
+    OnOpenSettings(Handled); <=====================
+    IF NOT Handled THEN
+      ERROR('');
+Table<Data Migrator Registration>.PROCEDURE<OnPostingGroupSetup>
+  Raised in: Page<Data Migration Wizard>.PROCEDURE<ShowDoneStep>
+    Code lines:
+    DoneVisible := TRUE;
+    NextEnabled := FALSE;
+    FinishEnabled := TRUE;
+    BackEnabled := FALSE;
+    OnPostingGroupSetup(AccountSetupVisible); <=====================
+    IF AccountSetupVisible THEN BEGIN
+      TempDataMigrationEntity.RESET;
+      TempDataMigrationEntity.SETRANGE("Table ID",15);
+      TempDataMigrationEntity.SETRANGE(Selected,TRUE);
+      IF TempDataMigrationEntity.FINDFIRST THEN BEGIN
+    ...
+Table<Data Migrator Registration>.PROCEDURE<OnRegisterDataMigrator>
+  Raised in: Page<Data Migration Wizard>.<OnOpenPage>
+    Code lines:
+    OnRegisterDataMigrator; <=====================
+    IF FINDFIRST THEN;
+    ResetWizardControls;
+    ShowIntroStep;
+Table<Data Migrator Registration>.PROCEDURE<OnSelectDataToApply>
+  Raised in: Page<Data Migration Wizard>.Action<ActionNext>.<OnAction>
+    Code lines:
+    ...
+        BEGIN
+          OnValidateSettings;
+          OnDataImport(Handled);
+          IF NOT Handled THEN
+            ERROR('');
+          OnSelectDataToApply(TempDataMigrationEntity,Handled); <=====================
+          CurrPage.DataMigrationEntities.PAGE.CopyToSourceTable(TempDataMigrationEntity);
+          TotalNoOfMigrationRecords := GetTotalNoOfMigrationRecords(TempDataMigrationEntity);
+          IF NOT Handled THEN
+            ERROR('');
+    ...
+Table<Data Migrator Registration>.PROCEDURE<OnShowErrors>
+  Raised in: Page<Data Migration Wizard>.Action<ActionShowErrors>.<OnAction>
+    Code lines:
+    OnShowErrors(Handled); <=====================
+    IF NOT Handled THEN
+      ERROR('');
+Table<Data Migrator Registration>.PROCEDURE<OnValidateSettings>
+  Raised in: Page<Data Migration Wizard>.Action<ActionNext>.<OnAction>
+    Code lines:
+    ...
+          IF NOT Handled THEN
+            ERROR('');
+        END;
+      Step::Import:
+        BEGIN
+          OnValidateSettings; <=====================
+          OnDataImport(Handled);
+          IF NOT Handled THEN
+            ERROR('');
+          OnSelectDataToApply(TempDataMigrationEntity,Handled);
+    ...
+Table<Assisted Company Setup Status>.PROCEDURE<OnEnabled>
+  Raised in: Table<Assisted Company Setup Status>.Field<Enabled>.<OnValidate>
+    Code lines:
+    OnEnabled("Company Name",Enabled); <=====================
+Table<Assisted Setup>.PROCEDURE<OnAssistedSetupCompleted>
+  Raised in: Table<Assisted Setup>.PROCEDURE<SetStatus>
+    Code lines:
+    ...
+    
+    IF
+       (AssistedSetup.Status = AssistedSetup.Status::Completed) AND
+       (AssistedSetup."Assisted Setup Page ID" <> 0)
+    THEN
+      OnAssistedSetupCompleted(EnteryId); <=====================
+Table<Cust. Ledger Entry>.PROCEDURE<OnAfterCopyCustLedgerEntryFromGenJnlLine>
+  Raised in: Table<Cust. Ledger Entry>.PROCEDURE<CopyFromGenJnlLine>
+    Code lines:
+    ...
+    "Applies-to Ext. Doc. No." := GenJnlLine."Applies-to Ext. Doc. No.";
+    "Payment Method Code" := GenJnlLine."Payment Method Code";
+    "Exported to Payment File" := GenJnlLine."Exported to Payment File";
+    "Journal Template Name" := GenJnlLine."Journal Template Name";
+    
+    OnAfterCopyCustLedgerEntryFromGenJnlLine(Rec,GenJnlLine); <=====================
+Table<Gen. Journal Batch>.PROCEDURE<OnCheckGenJournalLineExportRestrictions>
+  Raised in: Codeunit<SEPA CT-Check Line>.PROCEDURE<CheckGenJnlLine>
+    Code lines:
+    GLSetup.GET;
+    IF GenJournalBatch.GET(GenJnlLine."Journal Template Name",GenJnlLine."Journal Batch Name") THEN
+      GenJournalBatch.OnCheckGenJournalLineExportRestrictions; <=====================
+    WITH GenJnlLine DO BEGIN
+      IF "Bal. Account Type" <> "Bal. Account Type"::"Bank Account" THEN
+        InsertPaymentFileError(MustBeBankAccErr);
+    
+      IF "Bal. Account No." = '' THEN
+        AddFieldEmptyError(GenJnlLine,TABLECAPTION,FIELDCAPTION("Bal. Account No."),'');
+    
+    ...
+  Raised in: Codeunit<Payment Export Gen. Jnl Check>.PROCEDURE<CheckGenJournalBatch>
+    Code lines:
+    TempGenJournalBatch := GenJournalBatch;
+    TempGenJournalBatch.INSERT;
+    
+    GenJournalBatch.OnCheckGenJournalLineExportRestrictions; <=====================
+    
+    IF NOT GenJournalBatch."Allow Payment Export" THEN
+      AddBatchEmptyError(GenJournalLine,GenJournalBatch.FIELDCAPTION("Allow Payment Export"),'');
+    
+    IF GenJournalBatch."Bal. Account Type" <> GenJournalBatch."Bal. Account Type"::"Bank Account" THEN
+      AddBatchEmptyError(GenJournalLine,GenJournalBatch.FIELDCAPTION("Bal. Account Type"),GenJournalBatch."Bal. Account Type");
+    ...
+Table<Gen. Journal Batch>.PROCEDURE<OnGeneralJournalBatchBalanced>
+  Raised in: Table<Gen. Journal Batch>.PROCEDURE<CheckBalance>
+    Code lines:
+    Balance := GetBalance;
+    
+    IF Balance = 0 THEN
+      OnGeneralJournalBatchBalanced <=====================
+    ELSE
+      OnGeneralJournalBatchNotBalanced;
+Table<Gen. Journal Batch>.PROCEDURE<OnGeneralJournalBatchNotBalanced>
+  Raised in: Table<Gen. Journal Batch>.PROCEDURE<CheckBalance>
+    Code lines:
+    Balance := GetBalance;
+    
+    IF Balance = 0 THEN
+      OnGeneralJournalBatchBalanced
+    ELSE
+      OnGeneralJournalBatchNotBalanced; <=====================
+Table<Gen. Journal Batch>.PROCEDURE<OnMoveGenJournalBatch>
+  Raised in: Codeunit<Gen. Jnl.-Post Batch>.PROCEDURE<Code>
+    Code lines:
+    ...
+      CLEAR(GenJnlCheckLine);
+      CLEAR(GenJnlPostLine);
+      CLEARMARKS;
+    END;
+    UpdateAnalysisView.UpdateAll(0,TRUE);
+    GenJnlBatch.OnMoveGenJournalBatch(GLReg.RECORDID); <=====================
+    COMMIT;
+Table<Vendor Ledger Entry>.PROCEDURE<OnAfterCopyVendLedgerEntryFromGenJnlLine>
+  Raised in: Table<Vendor Ledger Entry>.PROCEDURE<CopyFromGenJnlLine>
+    Code lines:
+    ...
+    "Payment Reference" := GenJnlLine."Payment Reference";
+    "Payment Method Code" := GenJnlLine."Payment Method Code";
+    "Exported to Payment File" := GenJnlLine."Exported to Payment File";
+    "Journal Template Name" := GenJnlLine."Journal Template Name";
+    
+    OnAfterCopyVendLedgerEntryFromGenJnlLine(Rec,GenJnlLine); <=====================
+Table<Bank Account>.PROCEDURE<OnCheckAutoLogonPossibleEvent>
+  Raised in: Table<Bank Account>.PROCEDURE<IsAutoLogonPossible>
+    Code lines:
+    AutoLogonPossible := TRUE;
+    OnCheckAutoLogonPossibleEvent(Rec,AutoLogonPossible); <=====================
+    EXIT(AutoLogonPossible)
+Table<Bank Account>.PROCEDURE<OnCheckLinkedToStatementProviderEvent>
+  Raised in: Table<Bank Account>.PROCEDURE<IsLinkedToBankStatementServiceProvider>
+    Code lines:
+    OnCheckLinkedToStatementProviderEvent(Rec,IsBankAccountLinked); <=====================
+    EXIT(IsBankAccountLinked);
+Table<Bank Account>.PROCEDURE<OnGetDataExchangeDefinitionEvent>
+  Raised in: Table<Bank Account>.PROCEDURE<GetDataExchDef>
+    Code lines:
+    OnGetDataExchangeDefinitionEvent(DataExchDefCodeResponse,Handled); <=====================
+    IF NOT Handled THEN BEGIN
+      TESTFIELD("Bank Statement Import Format");
+      DataExchDefCodeResponse := "Bank Statement Import Format";
+    END;
+    
+    IF DataExchDefCodeResponse = '' THEN
+      ERROR(DataExchNotSetErr);
+    
+    BankExportImportSetup.GET(DataExchDefCodeResponse);
+    ...
+Table<Bank Account>.PROCEDURE<OnGetStatementProvidersEvent>
+  Raised in: Table<Bank Account>.PROCEDURE<StatementProvidersExist>
+    Code lines:
+    OnGetStatementProvidersEvent(TempNameValueBuffer); <=====================
+    EXIT(NOT TempNameValueBuffer.ISEMPTY);
+  Raised in: Table<Bank Account>.PROCEDURE<SelectBankLinkingService>
+    Code lines:
+    OnGetStatementProvidersEvent(TempNameValueBuffer); <=====================
+    
+    IF TempNameValueBuffer.ISEMPTY THEN
+      EXIT(''); // Action should not be visible in this case so should not occur
+    
+    IF (TempNameValueBuffer.COUNT = 1) OR (NOT GUIALLOWED) THEN
+      EXIT(TempNameValueBuffer.Name);
+    
+    TempNameValueBuffer.FINDSET;
+    REPEAT
+    ...
+Table<Bank Account>.PROCEDURE<OnLinkStatementProviderEvent>
+  Raised in: Table<Bank Account>.PROCEDURE<LinkStatementProvider>
+    Code lines:
+    StatementProvider := SelectBankLinkingService;
+    
+    IF StatementProvider <> '' THEN
+      OnLinkStatementProviderEvent(BankAccount,StatementProvider); <=====================
+Table<Bank Account>.PROCEDURE<OnMarkAccountLinkedEvent>
+  Raised in: Page<Assisted Company Setup Wizard>.Action<ActionFinish>.<OnAction>
+    Code lines:
+    AssistedCompanySetup.WaitForPackageImportToComplete(ImportSessionID);
+    BankAccount.TRANSFERFIELDS(TempBankAccount,TRUE);
+    AssistedCompanySetup.ApplyUserInput(Rec,BankAccount,AccountingPeriodStartDate,TypeEvaluation);
+    AssistedSetup.SetStatus(PAGE::"Assisted Company Setup Wizard",AssistedSetup.Status::Completed);
+    IF (BankAccount."No." <> '') AND (TempOnlineBankAccLink.COUNT > 0) THEN
+      BankAccount.OnMarkAccountLinkedEvent(TempOnlineBankAccLink,BankAccount); <=====================
+    CurrPage.CLOSE;
+Table<Bank Account>.PROCEDURE<OnSimpleLinkStatementProviderEvent>
+  Raised in: Table<Bank Account>.PROCEDURE<SimpleLinkStatementProvider>
+    Code lines:
+    StatementProvider := SelectBankLinkingService;
+    
+    IF StatementProvider <> '' THEN
+      OnSimpleLinkStatementProviderEvent(OnlineBankAccLink,StatementProvider); <=====================
+Table<Bank Account>.PROCEDURE<OnUnlinkStatementProviderEvent>
+  Raised in: Table<Bank Account>.Field<Bank Stmt. Service Record ID>.<OnValidate>
+    Code lines:
+    IF FORMAT("Bank Stmt. Service Record ID") = '' THEN
+      OnUnlinkStatementProviderEvent(Rec,Handled); <=====================
+  Raised in: Table<Bank Account>.PROCEDURE<UnlinkStatementProvider>
+    Code lines:
+    OnUnlinkStatementProviderEvent(Rec,Handled); <=====================
+Table<Bank Account>.PROCEDURE<OnUpdateBankAccountLinkingEvent>
+  Raised in: Table<Bank Account>.PROCEDURE<UpdateBankAccountLinking>
+    Code lines:
+    StatementProvider := SelectBankLinkingService;
+    
+    IF StatementProvider <> '' THEN
+      OnUpdateBankAccountLinkingEvent(Rec,StatementProvider); <=====================
+Table<Sales Header>.PROCEDURE<OnCheckSalesPostRestrictions>
+  Raised in: Codeunit<Sales-Post Prepayments>.PROCEDURE<Code>
+    Code lines:
+    ...
+    
+      IF NOT CheckOpenPrepaymentLines(SalesHeader,DocumentType) THEN
+        ERROR(Text001);
+    
+      CheckDim(SalesHeader);
+      OnCheckSalesPostRestrictions; <=====================
+      Cust.GET("Sell-to Customer No.");
+      Cust.CheckBlockedCustOnDocs(Cust,PrepmtDocTypeToDocType("Document Type"),FALSE,TRUE);
+      IF "Bill-to Customer No." <> "Sell-to Customer No." THEN BEGIN
+        Cust.GET("Bill-to Customer No.");
+    ...
+  Raised in: Codeunit<Sales-Quote to Order>.<OnRun>
+    Code lines:
+    TESTFIELD("Document Type","Document Type"::Quote);
+    ShouldRedistributeInvoiceAmount := SalesCalcDiscountByType.ShouldRedistributeInvoiceDiscountAmount(Rec);
+    
+    OnCheckSalesPostRestrictions; <=====================
+    
+    Cust.GET("Sell-to Customer No.");
+    Cust.CheckBlockedCustOnDocs(Cust,"Document Type"::Order,TRUE,FALSE);
+    CALCFIELDS("Amount Including VAT","Work Description");
+    SalesOrderHeader := Rec;
+    IF GUIALLOWED AND NOT HideValidationDialog THEN
+    ...
+  Raised in: Codeunit<Sales-Post>.PROCEDURE<CheckPostRestrictions>
+    Code lines:
+    WITH SalesHeader DO BEGIN
+      IF NOT PreviewMode THEN
+        OnCheckSalesPostRestrictions; <=====================
+    
+      CheckCustBlockage(SalesHeader,"Sell-to Customer No.",TRUE);
+    
+      IF "Bill-to Customer No." <> "Sell-to Customer No." THEN
+        CheckCustBlockage(SalesHeader,"Bill-to Customer No.",FALSE);
+    END;
+Table<Sales Header>.PROCEDURE<OnCheckSalesReleaseRestrictions>
+  Raised in: Codeunit<Release Sales Document>.PROCEDURE<Code>
+    Code lines:
+    ...
+      IF Status = Status::Released THEN
+        EXIT;
+    
+      OnBeforeReleaseSalesDoc(SalesHeader,PreviewMode);
+      IF NOT PreviewMode THEN
+        OnCheckSalesReleaseRestrictions; <=====================
+    
+      IF "Document Type" = "Document Type"::Quote THEN
+        IF CheckCustomerCreated(TRUE) THEN
+          GET("Document Type"::Quote,"No.")
+    ...
+Table<Sales Header>.PROCEDURE<OnCustomerCreditLimitExceeded>
+  Raised in: Codeunit<Cust-Check Cr. Limit>.PROCEDURE<SalesHeaderCheck>
+    Code lines:
+    ...
+      SalesHeader.OnCustomerCreditLimitNotExceeded
+    ELSE
+      IF InstructionMgt.IsEnabled(GetInstructionType(FORMAT(SalesHeader."Document Type"),SalesHeader."No.")) THEN BEGIN
+        CreditLimitExceeded := TRUE;
+        CreateAndSendNotification;
+        SalesHeader.OnCustomerCreditLimitExceeded; <=====================
+      END;
+  Raised in: Codeunit<Cust-Check Cr. Limit>.PROCEDURE<SalesLineCheck>
+    Code lines:
+    ...
+    IF NOT CustCheckCreditLimit.SalesLineShowWarning(SalesLine) THEN
+      SalesHeader.OnCustomerCreditLimitNotExceeded
+    ELSE
+      IF InstructionMgt.IsEnabled(GetInstructionType(FORMAT(SalesLine."Document Type"),SalesLine."Document No.")) THEN BEGIN
+        CreateAndSendNotification;
+        SalesHeader.OnCustomerCreditLimitExceeded; <=====================
+      END;
+  Raised in: Table<Sales Header>.PROCEDURE<CheckAvailableCreditLimit>
+    Code lines:
+    ...
+      Customer.GET("Sell-to Customer No.");
+    
+    AvailableCreditLimit := Customer.CalcAvailableCredit;
+    
+    IF AvailableCreditLimit < 0 THEN
+      OnCustomerCreditLimitExceeded <=====================
+    ELSE
+      OnCustomerCreditLimitNotExceeded;
+    
+    EXIT(AvailableCreditLimit);
+Table<Sales Header>.PROCEDURE<OnCustomerCreditLimitNotExceeded>
+  Raised in: Codeunit<Cust-Check Cr. Limit>.PROCEDURE<SalesHeaderCheck>
+    Code lines:
+    IF NOT GUIALLOWED THEN
+      EXIT;
+    
+    IF NOT CustCheckCreditLimit.SalesHeaderShowWarning(SalesHeader) THEN
+      SalesHeader.OnCustomerCreditLimitNotExceeded <=====================
+    ELSE
+      IF InstructionMgt.IsEnabled(GetInstructionType(FORMAT(SalesHeader."Document Type"),SalesHeader."No.")) THEN BEGIN
+        CreditLimitExceeded := TRUE;
+        CreateAndSendNotification;
+        SalesHeader.OnCustomerCreditLimitExceeded;
+  Raised in: Codeunit<Cust-Check Cr. Limit>.PROCEDURE<SalesLineCheck>
+    Code lines:
+    ...
+      EXIT;
+    
+    SalesHeader.GET(SalesLine."Document Type",SalesLine."Document No.");
+    
+    IF NOT CustCheckCreditLimit.SalesLineShowWarning(SalesLine) THEN
+      SalesHeader.OnCustomerCreditLimitNotExceeded <=====================
+    ELSE
+      IF InstructionMgt.IsEnabled(GetInstructionType(FORMAT(SalesLine."Document Type"),SalesLine."Document No.")) THEN BEGIN
+        CreateAndSendNotification;
+        SalesHeader.OnCustomerCreditLimitExceeded;
+  Raised in: Table<Sales Header>.PROCEDURE<CheckAvailableCreditLimit>
+    Code lines:
+    ...
+    AvailableCreditLimit := Customer.CalcAvailableCredit;
+    
+    IF AvailableCreditLimit < 0 THEN
+      OnCustomerCreditLimitExceeded
+    ELSE
+      OnCustomerCreditLimitNotExceeded; <=====================
+    
+    EXIT(AvailableCreditLimit);
+Table<Purchase Header>.PROCEDURE<OnCheckPurchasePostRestrictions>
+  Raised in: Codeunit<Purchase-Post Prepayments>.PROCEDURE<Code>
+    Code lines:
+    ...
+        FIELDERROR("Posting Date",Text000);
+    
+      IF NOT CheckOpenPrepaymentLines(PurchHeader,DocumentType) THEN
+        ERROR(Text001);
+      CheckDim(PurchHeader);
+      OnCheckPurchasePostRestrictions; <=====================
+      Vend.GET("Buy-from Vendor No.");
+      Vend.CheckBlockedVendOnDocs(Vend,TRUE);
+      IF "Pay-to Vendor No." <> "Buy-from Vendor No." THEN BEGIN
+        Vend.GET("Pay-to Vendor No.");
+    ...
+  Raised in: Codeunit<Purch.-Quote to Order>.<OnRun>
+    Code lines:
+    TESTFIELD("Document Type","Document Type"::Quote);
+    ShouldRedistributeInvoiceAmount := PurchCalcDiscByType.ShouldRedistributeInvoiceDiscountAmount(Rec);
+    
+    OnCheckPurchasePostRestrictions; <=====================
+    
+    Vend.GET("Buy-from Vendor No.");
+    Vend.CheckBlockedVendOnDocs(Vend,FALSE);
+    
+    PurchOrderHeader := Rec;
+    PurchOrderHeader."Document Type" := PurchOrderHeader."Document Type"::Order;
+    ...
+  Raised in: Codeunit<Purch.-Post>.PROCEDURE<CheckPostRestrictions>
+    Code lines:
+    IF NOT PreviewMode THEN
+      PurchaseHeader.OnCheckPurchasePostRestrictions; <=====================
+    
+    Vendor.GET(PurchaseHeader."Buy-from Vendor No.");
+    Vendor.CheckBlockedVendOnDocs(Vendor,TRUE);
+    IF PurchaseHeader."Pay-to Vendor No." <> PurchaseHeader."Buy-from Vendor No." THEN BEGIN
+      Vendor.GET(PurchaseHeader."Pay-to Vendor No.");
+      Vendor.CheckBlockedVendOnDocs(Vendor,TRUE);
+    END;
+Table<Purchase Header>.PROCEDURE<OnCheckPurchaseReleaseRestrictions>
+  Raised in: Codeunit<Release Purchase Document>.PROCEDURE<Code>
+    Code lines:
+    ...
+      IF Status = Status::Released THEN
+        EXIT;
+    
+      OnBeforeReleasePurchaseDoc(PurchaseHeader,PreviewMode);
+      IF NOT PreviewMode THEN
+        OnCheckPurchaseReleaseRestrictions; <=====================
+    
+      TESTFIELD("Buy-from Vendor No.");
+    
+      PurchLine.SETRANGE("Document Type","Document Type");
+    ...
+Table<Gen. Journal Line>.PROCEDURE<OnCheckGenJournalLinePostRestrictions>
+  Raised in: Codeunit<Gen. Jnl.-Post Batch>.PROCEDURE<CheckRestrictions>
+    Code lines:
+    IF NOT PreviewMode THEN
+      GenJournalLine.OnCheckGenJournalLinePostRestrictions; <=====================
+Table<Gen. Journal Line>.PROCEDURE<OnCheckGenJournalLinePrintCheckRestrictions>
+  Raised in: Codeunit<Document-Print>.PROCEDURE<PrintCheck>
+    Code lines:
+    GenJnlLine.COPY(NewGenJnlLine);
+    GenJnlLine.OnCheckGenJournalLinePrintCheckRestrictions; <=====================
+    
+    ReportSelections.Print(ReportSelections.Usage::"B.Check",GenJnlLine,'');
+Table<Gen. Journal Line>.PROCEDURE<OnMoveGenJournalLine>
+  Raised in: Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<PostGLAcc>
+    Code lines:
+    ...
+      InitVAT(GenJnlLine,GLEntry,VATPostingSetup);
+      InsertGLEntry(GenJnlLine,GLEntry,TRUE);
+      PostJob(GenJnlLine,GLEntry);
+      PostVAT(GenJnlLine,GLEntry,VATPostingSetup);
+      DeferralPosting("Deferral Code","Source Code","Account No.",GenJnlLine,Balancing);
+      OnMoveGenJournalLine(GLEntry.RECORDID); <=====================
+    END;
+  Raised in: Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<PostCust>
+    Code lines:
+    ...
+      IF DtldLedgEntryInserted THEN
+        IF IsTempGLEntryBufEmpty THEN
+          DtldCustLedgEntry.SetZeroTransNo(NextTransactionNo);
+    
+      DeferralPosting("Deferral Code","Source Code",ReceivablesAccount,GenJnlLine,Balancing);
+      OnMoveGenJournalLine(CustLedgEntry.RECORDID); <=====================
+    END;
+  Raised in: Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<PostVend>
+    Code lines:
+    ...
+    
+      IF DtldLedgEntryInserted THEN
+        IF IsTempGLEntryBufEmpty THEN
+          DtldVendLedgEntry.SetZeroTransNo(NextTransactionNo);
+      DeferralPosting("Deferral Code","Source Code",PayablesAccount,GenJnlLine,Balancing);
+      OnMoveGenJournalLine(VendLedgEntry.RECORDID); <=====================
+    END;
+  Raised in: Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<PostBankAcc>
+    Code lines:
+    ...
+      BankAccPostingGr.TESTFIELD("G/L Bank Account No.");
+      CreateGLEntryBalAcc(
+        GenJnlLine,BankAccPostingGr."G/L Bank Account No.","Amount (LCY)","Source Currency Amount",
+        "Bal. Account Type","Bal. Account No.");
+      DeferralPosting("Deferral Code","Source Code",BankAccPostingGr."G/L Bank Account No.",GenJnlLine,Balancing);
+      OnMoveGenJournalLine(BankAccLedgEntry.RECORDID); <=====================
+    END;
+  Raised in: Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<PostFixedAsset>
+    Code lines:
+    ...
+    GLEntry := GLEntry2;
+    TempGLEntryBuf."Entry No." := GLEntry."Entry No."; // Used later in InsertVAT(): GLEntryVATEntryLink.InsertLink(TempGLEntryBuf."Entry No.",VATEntry."Entry No.")
+    PostVAT(GenJnlLine,GLEntry,VATPostingSetup);
+    
+    FAJnlPostLine.UpdateRegNo(GLReg."No.");
+    GenJnlLine.OnMoveGenJournalLine(GLEntry.RECORDID); <=====================
+  Raised in: Codeunit<Gen. Jnl.-Post Line>.PROCEDURE<CreateGLEntryBalAcc>
+    Code lines:
+    InitGLEntry(GenJnlLine,GLEntry,AccNo,Amount,AmountAddCurr,TRUE,TRUE);
+    GLEntry."Bal. Account Type" := BalAccType;
+    GLEntry."Bal. Account No." := BalAccNo;
+    InsertGLEntry(GenJnlLine,GLEntry,TRUE);
+    GenJnlLine.OnMoveGenJournalLine(GLEntry.RECORDID); <=====================
