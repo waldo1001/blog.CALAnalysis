@@ -1,4 +1,3 @@
-#TYPE System.Management.Automation.PSCustomObject
 "FullName","Action","From","To"
 "Table<Item Variant>.Field<Description>","ChangedDatatype","Text50","Text100"
 "Table<Employee Ledger Entry>.Field<Description>","ChangedDatatype","Text50","Text100"
